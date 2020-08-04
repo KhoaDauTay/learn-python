@@ -19,7 +19,7 @@
     a = driver.find_element_by_id('email')
     a.send_keys('cuonglieu3256@gmail.com')
     b = driver.find_element_by_id('pass')
-    b.send_keys('khoa03052000')
+    b.send_keys('password')
     c = driver.find_element_by_id('loginbutton')
     c.click()
     post_box = driver.find_element_by_xpath("//*[@name='xhpc_message']")
