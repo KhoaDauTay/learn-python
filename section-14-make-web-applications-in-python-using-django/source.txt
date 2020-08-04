@@ -1,0 +1,297 @@
+This is the entire code for the Django project which works perfectly on my side and is free of any errors.
+
+
+
+models.py:
+
+from django.db import models
+from django.core.urlresolvers import reverse
+ 
+class Book(models.Model):
+ 
+    def get_absoulte_url(self):
+        return reverse('books:detail', kwargs={'pk':self.pk})
+ 
+    def __str__(self):
+        return self.name + '-' + self.author
+ 
+    name = models.CharField(max_length=100)
+    author = models.CharField(max_length=100)
+    price = models.CharField(max_length=100)
+    type = models.CharField(max_length=100)
+    book_image = models.CharField(max_length=1000)
+   
+
+
+urls.py:
+
+Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
+"""
+from django.conf.urls import include,url
+from django.contrib import admin
+ 
+urlpatterns = [
+    url(r'^admin/', admin.site.urls),
+    url(r'^books/', include('books.urls')),
+]
+
+
+views.py:
+
+from django.views import generic
+from .models import Book
+from django.views.generic.edit import CreateView
+ 
+ 
+class IndexView(generic.ListView):
+    template_name = 'books/index.html'
+ 
+ 
+    def get_queryset(self):
+        return Book.objects.all()
+ 
+class BookCreate(CreateView):
+    model = Book
+    fields = ['name', 'author', 'price', 'type', 'book_image']
+ 
+ 
+class DetailView(generic.DetailView):
+    model = Book
+    template_name = 'books/detail.html'
+
+
+style.css:
+
+body{
+ 
+   //background: white url("images/back.jpg");
+}
+.jumbotron{
+ 
+   background: white url("images/yellow.jpg");
+}
+.jumbotron-special{
+ 
+   background: white url("images/purple.jpg");
+ 
+}
+.jumbotron-special h2{
+ 
+   color:white;
+}
+
+
+detail.html
+
+{% extends 'books/base.html' %}
+{% block body %}
+ 
+<!--old code
+<img src="{‌{book.book_image}}"/>
+<h1>{‌{book.name}}</h1>
+<h2>{‌{book.author}}</h2>
+<h2>{‌{book.price}}</h2>
+<h2>{‌{book.type}}</h2>
+ 
+ 
+old code
+-->
+ 
+<div class="col-lg-3 col-md-4 col-sm-6 " >
+      <div class = "thumbnail">
+           <img src = "{‌{book.book_image}}" alt = "Generic placeholder thumbnail">
+        
+      
+         <div class = "caption">
+          <h3>{‌{book.name}}</h3>
+          <p>{‌{book.author}}</p>
+           <p></p>
+         </div>
+      </div>
+</div>
+ 
+<div class="col-lg-9 col-md-4 col-sm-6 " >
+      <div class="" >
+                   
+      
+         
+          <h3><b>{‌{book.name}}</b></h3>
+          <p><b>Author:</b> {‌{book.author}}</p>
+           <p><b>Price:</b> {‌{book.price}}$</p>
+           <p><b>Category:</b> {‌{book.type}}</p>
+ 
+            <a href = "#" class = "btn btn-danger" role = "button">
+                 Read Sample <span class="glyphicon glyphicon-book"></span>
+              </a>
+ 
+         
+      </div>
+</div>
+ 
+ 
+ 
+{% endblock %}
+
+
+index.html:
+
+{% extends 'books/base.html' %}
+ {% block body %}
+<link rel="stylesheet" type="text/css" href="books/style.css">
+<div class=" col-md-12 jumbotron">
+  <h1>The Bookstore</h1>
+  <p>Collection of all popular books</p>
+</div>
+<div class=" col-md-10 jumbotron jumbotron-special" name="fig">
+   <div class="col-md-12 span-2">
+  <h2>Popular Books</h2>
+ 
+  </div>
+</div>
+ 
+<ul>
+   {% for book in object_list %}
+   <!--<li><a href="{% url 'books:detail' book.id %}">{‌{book.name}}</a></li>
+   <img src="{‌{book.book_image}}"/>-->
+ 
+   <!--new code starts here-->
+   <div class="col-lg-3 col-md-4 col-sm-6 " >
+      <div class = "thumbnail">
+         <img src = "{‌{book.book_image}}" alt = "Generic placeholder thumbnail">
+ 
+ 
+         <div class = "caption">
+          <h3>{‌{book.name}}</h3>
+          <p>{‌{book.author}}</p>
+ 
+          <p>
+             <a href = "{% url 'books:detail' book.id %}" class = "btn btn-primary" role = "button">
+                Details
+              </a>
+ 
+              <a href = "#" class = "btn btn-danger" role = "button">
+                 Delete
+              </a>
+         </p>
+         </div>
+      </div>
+ 
+ 
+   </div>
+   <!--new code ends here-->
+   {% endfor %}
+</ul>
+{% endblock %}
+
+
+base.html:
+
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'books/style.css' %}" >
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+              integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="{% url 'books:index' %}">The Bookstore</a>
+                <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="">
+                        <a href="{% url 'books:index' %}">
+                             <span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Books
+                        </a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="">
+                        <a href="{% url 'books:book-add' %}">
+                            <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>  Add Book
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="{% url 'books:index' %}">
+                            <span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>  Logout
+                        </a>
+                    </li>
+                </ul>
+ 
+            </div>
+            </div>
+ 
+ 
+       </nav>
+        {% block body %}
+        {% endblock %}
+ 
+</body>
+</html>
+
+
+books\urls.py:
+
+from django.conf.urls import url
+from django.contrib import admin
+from . import views
+ 
+app_name = 'books'
+ 
+urlpatterns = [
+ 
+    url(r'^$', views.IndexView.as_view(), name='index'),
+    #/books/2/
+    url(r'^(?P<pk>[0-9]+)/$', views.DetailView.as_view(), name='detail'),
+    url(r'books/add/$', views.BookCreate.as_view(), name='book-add'),
+]
+
+
+book_form.html:
+
+{% extends 'books/base.html' %}
+ 
+{% block body %}
+ 
+    <div class="container-fluid">
+   <div class="row">
+      <div class="col-sm-12 col-md-7">
+         <div class="panel panel-default">
+            <div class="panel-body">
+ 
+                    <form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        {% include 'books/form-template.html' %}
+                        <div class="form-group">
+                            <div class="col-sm-offset-2 col-sm-10">
+                                <button type="submit" class="btn btn-sucess">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+ 
+ 
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+ 
+{% endblock %}
+
+
+form-template.html:
+
+{% for field in form %}
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <span class="text-danger small ">{‌{field.errors}}</span>
+ 
+        </div>
+        <label class="control-label col-sm-2">{‌{field.label_tag}}</label>
+        <div class="col-sm-10">{‌{field}}</div>
+ 
+    </div>
+{% endfor %}

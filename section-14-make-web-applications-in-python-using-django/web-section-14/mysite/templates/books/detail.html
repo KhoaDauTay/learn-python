@@ -1,0 +1,39 @@
+{% extends 'books/base.html' %} {% block body %}
+
+<!--old code
+<img src="{{book.book_image}}"/>
+<h1>{{book.name}}</h1>
+<h2>{{book.author}}</h2>
+<h2>{{book.price}}</h2>
+<h2>{{book.type}}</h2>
+
+
+old code
+-->
+
+<div class="col-lg-3 col-md-4 col-sm-6">
+    <div class="thumbnail">
+        <img src="{{book.book_image}}" alt="Generic placeholder thumbnail" />
+
+        <div class="caption">
+            <h3>{{book.name}}</h3>
+            <p>{{book.author}}</p>
+            <p></p>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-9 col-md-4 col-sm-6">
+    <div class="">
+        <h3><b>{{book.name}}</b></h3>
+        <p><b>Author:</b> {{book.author}}</p>
+        <p><b>Price:</b> {{book.price}}$</p>
+        <p><b>Category:</b> {{book.type}}</p>
+
+        <a href="#" class="btn btn-danger" role="button">
+      Read Sample <span class="glyphicon glyphicon-book"></span>
+    </a>
+    </div>
+</div>
+
+{% endblock %}

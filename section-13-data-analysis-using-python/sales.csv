@@ -1,0 +1,1001 @@
+Invoice ID,Date,Time,Gender,Location,City,Member,Category,Price,Quantity,Total,Payment,Rating
+460489604,1/25/2018,16:46,Male,Brookfield,NewYork,Yes,Groceries,30,1,30,Cash,2
+471006167,3/19/2018,16:48,Female,Water tower,Chicago,Yes,Fashion,35,5,175,Card,3
+411909258,2/25/2018,13:33,Male,Water tower,Chicago,No,Clothing,57,2,114,Cash,5
+487313402,1/22/2018,13:38,Female,Park lane,Dallas,Yes,Sporting,89,4,356,Gpay,1
+197763430,2/18/2018,15:31,Female,Park lane,Dallas,No,Books,82,5,410,Cash,4
+263634050,3/9/2018,17:55,Male,Brookfield,NewYork,Yes,Clothing,52,4,208,Gpay,3
+99646662,3/4/2018,13:21,Male,Water tower,Chicago,No,Clothing,81,3,243,Cash,4
+188869875,3/8/2018,13:24,Male,Park lane,Dallas,No,Books,80,2,160,Cash,3
+325637547,1/18/2018,15:33,Male,Park lane,Dallas,Yes,Clothing,91,3,273,Card,3
+562942936,2/24/2018,16:05,Female,Park lane,Dallas,No,Books,80,2,160,Cash,4
+388412668,2/26/2018,11:32,Female,Brookfield,NewYork,No,Furniture,35,4,140,Gpay,4
+846531724,3/15/2018,12:12,Male,Park lane,Dallas,No,Sporting,22,5,110,Card,4
+149894432,1/12/2018,11:12,Male,Park lane,Dallas,No,Clothing,77,5,385,Cash,4
+942406749,1/18/2018,15:20,Female,Water tower,Chicago,Yes,Clothing,9,6,54,Gpay,5
+547572603,3/21/2018,13:23,Female,Brookfield,NewYork,No,Fashion,98,7,686,Gpay,3
+355981315,2/15/2018,15:47,Female,Brookfield,NewYork,Yes,Clothing,78,5,390,Card,5
+397754805,2/9/2018,15:59,Female,Brookfield,NewYork,Yes,Sporting,35,7,245,Gpay,1
+90524319,3/19/2018,18:18,Male,Park lane,Dallas,Yes,Clothing,23,1,23,Cash,3
+542144906,2/6/2018,10:58,Female,Brookfield,NewYork,Yes,Fashion,33,5,165,Gpay,2
+729486362,3/7/2018,12:50,Male,Water tower,Chicago,No,Groceries,39,4,156,Cash,3
+619639105,3/26/2018,19:48,Female,Brookfield,NewYork,No,Groceries,44,6,264,Cash,1
+443198801,2/24/2018,19:31,Female,Brookfield,NewYork,No,Clothing,48,5,240,Card,5
+761515143,1/15/2018,16:08,Female,Park lane,Dallas,No,Groceries,23,1,23,Gpay,3
+56578535,3/23/2018,10:11,Male,Water tower,Chicago,Yes,Groceries,24,1,24,Gpay,2
+834838148,2/15/2018,13:00,Male,Brookfield,NewYork,Yes,Groceries,12,4,48,Card,1
+833288071,1/25/2018,15:02,Male,Water tower,Chicago,No,Sporting,16,5,80,Gpay,2
+508614950,1/24/2018,16:47,Female,Park lane,Dallas,No,Sporting,38,2,76,Cash,4
+103072863,3/12/2018,11:57,Male,Water tower,Chicago,No,Groceries,41,6,246,Card,5
+355815500,1/20/2018,15:09,Female,Park lane,Dallas,Yes,Furniture,16,6,96,Card,2
+193855414,3/4/2018,12:04,Female,Brookfield,NewYork,Yes,Clothing,51,4,204,Card,2
+600792216,3/6/2018,17:04,Male,Park lane,Dallas,Yes,Clothing,42,7,294,Card,5
+567867755,2/3/2018,20:59,Female,Brookfield,NewYork,No,Furniture,86,3,258,Cash,2
+597934753,3/26/2018,16:46,Female,Brookfield,NewYork,No,Clothing,19,6,114,Card,3
+419033295,3/24/2018,15:57,Male,Water tower,Chicago,Yes,Furniture,68,2,136,Gpay,4
+8795029,1/19/2018,17:03,Female,Brookfield,NewYork,No,Clothing,4,2,8,Card,2
+912473338,2/25/2018,11:27,Male,Park lane,Dallas,No,Sporting,41,7,287,Gpay,1
+209725428,3/20/2018,12:45,Female,Water tower,Chicago,Yes,Sporting,79,7,553,Gpay,1
+460044751,2/22/2018,16:20,Male,Brookfield,NewYork,No,Fashion,45,5,225,Cash,4
+191736512,2/14/2018,14:13,Female,Park lane,Dallas,No,Sporting,60,6,360,Cash,1
+979973145,1/14/2018,19:26,Female,Brookfield,NewYork,Yes,Sporting,79,4,316,Gpay,4
+43371182,1/28/2018,19:24,Male,Park lane,Dallas,Yes,Clothing,75,7,525,Cash,2
+613811022,1/9/2018,20:55,Male,Water tower,Chicago,No,Clothing,24,7,168,Cash,4
+673603546,3/26/2018,10:11,Female,Water tower,Chicago,No,Groceries,40,5,200,Gpay,1
+328132417,1/3/2018,19:01,Female,Water tower,Chicago,No,Fashion,9,2,18,Cash,2
+325924536,3/4/2018,10:38,Female,Park lane,Dallas,No,Clothing,16,7,112,Gpay,3
+747705702,2/7/2018,13:57,Male,Brookfield,NewYork,Yes,Books,31,5,155,Gpay,1
+450817216,2/7/2018,10:57,Female,Water tower,Chicago,Yes,Furniture,79,7,553,Gpay,4
+315624039,3/30/2018,19:45,Female,Water tower,Chicago,Yes,Groceries,99,7,693,Gpay,3
+888822600,1/12/2018,19:49,Female,Water tower,Chicago,No,Groceries,4,2,8,Card,5
+896399395,2/15/2018,14:36,Male,Park lane,Dallas,Yes,Clothing,26,7,182,Cash,2
+20548577,1/7/2018,14:00,Male,Park lane,Dallas,Yes,Furniture,43,2,86,Gpay,5
+500850764,3/19/2018,14:04,Female,Water tower,Chicago,No,Groceries,67,1,67,Gpay,1
+466598448,2/2/2018,18:50,Female,Brookfield,NewYork,No,Books,78,7,546,Gpay,5
+265371038,2/26/2018,13:53,Male,Brookfield,NewYork,Yes,Sporting,29,1,29,Card,4
+175938157,3/28/2018,12:58,Female,Brookfield,NewYork,Yes,Fashion,62,4,248,Gpay,5
+839600262,1/5/2018,19:30,Female,Park lane,Dallas,Yes,Groceries,32,2,64,Cash,1
+885253494,3/24/2018,12:52,Male,Park lane,Dallas,Yes,Sporting,53,1,53,Gpay,4
+180545139,3/14/2018,10:46,Female,Brookfield,NewYork,Yes,Clothing,87,7,609,Gpay,1
+227063423,1/16/2018,16:38,Male,Water tower,Chicago,No,Books,47,4,188,Gpay,3
+500777576,3/22/2018,12:22,Female,Water tower,Chicago,No,Sporting,60,7,420,Gpay,5
+426576006,1/22/2018,17:34,Female,Brookfield,NewYork,No,Sporting,21,1,21,Gpay,5
+934647292,1/18/2018,11:26,Male,Water tower,Chicago,No,Fashion,59,6,354,Cash,4
+975443414,3/30/2018,12:58,Male,Park lane,Dallas,No,Groceries,23,3,69,Card,2
+858716993,2/3/2018,17:38,Male,Water tower,Chicago,Yes,Furniture,56,4,224,Gpay,4
+776761484,1/29/2018,17:59,Female,Water tower,Chicago,No,Clothing,4,5,20,Gpay,5
+798252244,1/23/2018,11:05,Male,Park lane,Dallas,Yes,Sporting,51,7,357,Gpay,2
+595065138,2/17/2018,13:55,Male,Park lane,Dallas,No,Fashion,21,2,42,Gpay,3
+366083315,3/11/2018,13:54,Female,Park lane,Dallas,No,Groceries,68,5,340,Gpay,3
+746011173,2/17/2018,18:31,Male,Brookfield,NewYork,No,Books,51,7,357,Gpay,5
+687132774,3/11/2018,13:21,Female,Park lane,Dallas,No,Sporting,26,2,52,Gpay,3
+554361739,1/2/2018,17:24,Male,Brookfield,NewYork,Yes,Books,97,6,582,Cash,4
+563130623,2/27/2018,10:41,Male,Park lane,Dallas,No,Furniture,23,5,115,Gpay,4
+380354826,3/4/2018,12:10,Female,Water tower,Chicago,No,Fashion,28,7,196,Gpay,5
+107399414,3/17/2018,10:16,Male,Brookfield,NewYork,Yes,Groceries,65,3,195,Card,2
+851267575,1/7/2018,12:07,Male,Water tower,Chicago,No,Books,74,1,74,Gpay,5
+437093770,2/7/2018,16:42,Female,Park lane,Dallas,Yes,Sporting,4,1,4,Cash,2
+177764380,2/17/2018,17:37,Male,Water tower,Chicago,Yes,Furniture,50,4,200,Card,4
+36054637,2/17/2018,11:15,Male,Water tower,Chicago,Yes,Clothing,56,5,280,Cash,5
+127420911,2/21/2018,15:06,Male,Water tower,Chicago,Yes,Groceries,39,7,273,Cash,3
+709746437,1/7/2018,13:22,Male,Park lane,Dallas,Yes,Groceries,39,5,195,Card,3
+867695625,1/17/2018,19:46,Male,Water tower,Chicago,No,Clothing,36,7,252,Card,5
+336967276,1/19/2018,17:54,Male,Brookfield,NewYork,No,Books,36,1,36,Cash,5
+677779969,1/26/2018,17:08,Male,Water tower,Chicago,Yes,Books,14,2,28,Gpay,2
+401666792,2/7/2018,12:17,Female,Brookfield,NewYork,Yes,Furniture,51,6,306,Gpay,2
+616515038,3/10/2018,14:12,Female,Water tower,Chicago,Yes,Groceries,10,2,20,Cash,5
+160906524,1/25/2018,11:51,Female,Park lane,Dallas,No,Fashion,25,7,175,Gpay,2
+978363495,3/23/2018,14:13,Male,Water tower,Chicago,No,Groceries,9,3,27,Gpay,2
+198509753,1/19/2018,17:10,Male,Park lane,Dallas,Yes,Furniture,11,5,55,Gpay,1
+580839402,2/8/2018,18:30,Female,Brookfield,NewYork,No,Clothing,63,6,378,Card,5
+533156738,3/24/2018,13:57,Male,Water tower,Chicago,No,Clothing,3,2,6,Cash,4
+117522526,2/3/2018,10:40,Male,Park lane,Dallas,No,Books,13,3,39,Gpay,1
+727593101,3/2/2018,16:06,Male,Park lane,Dallas,Yes,Groceries,77,2,154,Card,3
+446636139,1/20/2018,16:51,Male,Brookfield,NewYork,Yes,Books,42,3,126,Card,1
+993368037,1/26/2018,15:29,Female,Water tower,Chicago,Yes,Fashion,43,7,301,Gpay,3
+435094946,1/12/2018,10:54,Male,Brookfield,NewYork,No,Sporting,80,6,480,Cash,5
+842361554,1/14/2018,16:17,Male,Brookfield,NewYork,Yes,Clothing,5,1,5,Cash,2
+964002523,3/4/2018,17:38,Male,Water tower,Chicago,No,Sporting,56,6,336,Cash,2
+719679728,1/13/2018,15:29,Male,Water tower,Chicago,Yes,Books,87,5,435,Cash,4
+748990073,3/12/2018,20:15,Male,Water tower,Chicago,No,Sporting,26,3,78,Cash,5
+407802065,2/14/2018,18:03,Female,Brookfield,NewYork,No,Sporting,94,2,188,Gpay,3
+515862366,2/12/2018,10:57,Female,Park lane,Dallas,No,Sporting,94,6,564,Card,3
+42787009,3/28/2018,11:25,Female,Park lane,Dallas,Yes,Clothing,30,3,90,Card,5
+780195692,2/20/2018,12:42,Female,Park lane,Dallas,No,Books,29,6,174,Cash,1
+881639873,2/27/2018,15:05,Male,Park lane,Dallas,Yes,Fashion,64,1,64,Gpay,5
+443388850,2/5/2018,16:31,Male,Brookfield,NewYork,Yes,Furniture,97,5,485,Card,4
+635503529,3/24/2018,15:17,Male,Water tower,Chicago,No,Books,61,6,366,Cash,5
+774895188,2/7/2018,20:29,Female,Brookfield,NewYork,Yes,Books,17,6,102,Card,1
+194154086,2/11/2018,16:28,Female,Brookfield,NewYork,Yes,Furniture,4,5,20,Gpay,4
+191782944,1/20/2018,19:28,Female,Brookfield,NewYork,Yes,Clothing,43,1,43,Card,1
+949506131,2/8/2018,10:43,Male,Brookfield,NewYork,Yes,Sporting,50,6,300,Gpay,2
+866328026,1/3/2018,14:41,Male,Water tower,Chicago,Yes,Sporting,61,1,61,Gpay,2
+43708341,3/5/2018,15:54,Male,Park lane,Dallas,Yes,Groceries,37,3,111,Card,4
+337106518,1/1/2018,12:08,Male,Water tower,Chicago,Yes,Groceries,19,3,57,Gpay,3
+663329867,2/2/2018,14:27,Female,Brookfield,NewYork,Yes,Books,5,6,30,Gpay,3
+419221776,1/31/2018,20:36,Female,Park lane,Dallas,Yes,Sporting,38,4,152,Cash,5
+745600525,3/27/2018,13:45,Male,Park lane,Dallas,Yes,Sporting,75,7,525,Card,5
+208190296,3/6/2018,13:05,Male,Brookfield,NewYork,No,Sporting,3,6,18,Card,2
+4315051,2/6/2018,10:00,Male,Park lane,Dallas,No,Furniture,32,3,96,Gpay,1
+456069400,3/9/2018,15:21,Female,Water tower,Chicago,No,Clothing,6,2,12,Cash,2
+198592951,3/16/2018,15:53,Female,Brookfield,NewYork,Yes,Groceries,72,7,504,Cash,3
+127206426,1/20/2018,18:17,Male,Park lane,Dallas,No,Clothing,70,1,70,Card,1
+812090406,3/29/2018,12:32,Male,Park lane,Dallas,Yes,Fashion,67,5,335,Gpay,5
+277220872,1/17/2018,19:08,Male,Park lane,Dallas,Yes,Clothing,15,6,90,Card,3
+366492621,2/22/2018,20:18,Male,Water tower,Chicago,No,Clothing,5,5,25,Gpay,5
+258316154,2/24/2018,18:24,Male,Water tower,Chicago,No,Fashion,1,7,7,Card,4
+122309285,1/26/2018,15:07,Male,Water tower,Chicago,Yes,Furniture,54,2,108,Card,1
+555703265,2/25/2018,19:48,Male,Brookfield,NewYork,No,Groceries,52,4,208,Gpay,3
+911408389,2/27/2018,10:18,Male,Water tower,Chicago,Yes,Groceries,18,5,90,Card,2
+675873533,3/2/2018,15:19,Female,Water tower,Chicago,No,Furniture,62,2,124,Card,4
+866739244,1/2/2018,12:14,Female,Brookfield,NewYork,Yes,Books,14,7,98,Gpay,1
+512879237,1/6/2018,20:37,Female,Park lane,Dallas,Yes,Fashion,86,6,516,Card,5
+260820560,2/28/2018,20:21,Male,Park lane,Dallas,No,Clothing,29,5,145,Gpay,5
+541985844,1/24/2018,13:22,Female,Brookfield,NewYork,No,Fashion,69,6,414,Gpay,1
+9436913,1/27/2018,14:26,Female,Park lane,Dallas,No,Groceries,9,4,36,Cash,2
+262498476,3/28/2018,13:23,Female,Park lane,Dallas,Yes,Books,59,7,413,Gpay,2
+442355183,3/25/2018,14:48,Female,Brookfield,NewYork,Yes,Fashion,87,2,174,Cash,3
+217802268,1/19/2018,12:20,Male,Water tower,Chicago,No,Furniture,70,3,210,Cash,2
+68624343,3/8/2018,19:16,Male,Water tower,Chicago,No,Sporting,97,2,194,Gpay,4
+48392594,2/4/2018,18:06,Female,Brookfield,NewYork,Yes,Clothing,49,7,343,Cash,1
+478164051,1/25/2018,13:00,Male,Brookfield,NewYork,Yes,Books,6,6,36,Gpay,5
+723722504,1/5/2018,20:50,Female,Water tower,Chicago,No,Furniture,3,2,6,Gpay,1
+510014671,2/22/2018,19:12,Female,Brookfield,NewYork,No,Furniture,39,4,156,Gpay,4
+895009015,3/13/2018,10:53,Female,Park lane,Dallas,Yes,Fashion,97,4,388,Card,5
+995068874,1/31/2018,17:36,Male,Brookfield,NewYork,No,Furniture,34,6,204,Card,3
+210787158,3/25/2018,19:17,Male,Park lane,Dallas,Yes,Clothing,15,5,75,Cash,4
+939718527,3/3/2018,20:04,Female,Water tower,Chicago,Yes,Books,97,7,679,Cash,2
+140174468,1/27/2018,20:29,Male,Brookfield,NewYork,No,Sporting,61,2,122,Cash,3
+977135436,1/12/2018,19:25,Female,Park lane,Dallas,No,Sporting,38,3,114,Card,3
+8832185,3/3/2018,11:23,Female,Park lane,Dallas,No,Fashion,44,4,176,Gpay,1
+373494614,2/27/2018,12:21,Female,Park lane,Dallas,No,Fashion,49,2,98,Card,1
+425924757,1/4/2018,16:47,Female,Park lane,Dallas,Yes,Groceries,67,4,268,Card,4
+264102536,2/7/2018,19:28,Female,Brookfield,NewYork,No,Furniture,88,4,352,Cash,3
+376560178,3/26/2018,10:00,Male,Water tower,Chicago,Yes,Books,2,2,4,Card,4
+113991887,1/15/2018,18:43,Male,Brookfield,NewYork,No,Books,85,7,595,Card,4
+985931753,2/2/2018,13:12,Male,Park lane,Dallas,No,Books,41,4,164,Card,2
+482096810,1/25/2018,13:32,Female,Brookfield,NewYork,Yes,Clothing,91,4,364,Card,3
+294501073,3/20/2018,19:50,Female,Water tower,Chicago,No,Sporting,21,1,21,Card,1
+928762219,2/27/2018,14:55,Male,Brookfield,NewYork,Yes,Groceries,84,1,84,Card,5
+487004803,1/17/2018,20:30,Male,Water tower,Chicago,No,Clothing,56,6,336,Gpay,2
+582323814,1/13/2018,20:06,Male,Brookfield,NewYork,Yes,Fashion,5,4,20,Cash,2
+513905846,1/28/2018,20:42,Female,Water tower,Chicago,Yes,Clothing,36,5,180,Card,3
+289206319,1/11/2018,14:53,Male,Water tower,Chicago,No,Groceries,68,1,68,Cash,5
+257338584,3/23/2018,10:09,Female,Water tower,Chicago,Yes,Books,34,3,102,Gpay,5
+58932351,3/1/2018,15:39,Female,Water tower,Chicago,Yes,Fashion,32,1,32,Gpay,4
+602936337,1/24/2018,15:42,Male,Water tower,Chicago,No,Sporting,17,6,102,Cash,1
+404247810,3/5/2018,13:41,Male,Park lane,Dallas,No,Furniture,98,6,588,Gpay,5
+465624646,1/19/2018,10:30,Female,Brookfield,NewYork,Yes,Books,67,7,469,Cash,3
+219007732,3/16/2018,13:25,Male,Brookfield,NewYork,No,Clothing,71,1,71,Cash,4
+916085444,3/20/2018,14:38,Male,Brookfield,NewYork,No,Fashion,91,4,364,Gpay,1
+662413753,2/7/2018,18:14,Male,Brookfield,NewYork,Yes,Books,48,6,288,Gpay,1
+702839682,3/29/2018,13:46,Female,Water tower,Chicago,Yes,Sporting,73,5,365,Card,5
+585656963,1/10/2018,14:35,Female,Park lane,Dallas,Yes,Groceries,71,1,71,Card,5
+253581497,1/24/2018,14:15,Male,Water tower,Chicago,Yes,Furniture,97,7,679,Cash,5
+882131997,3/19/2018,18:31,Female,Brookfield,NewYork,Yes,Sporting,72,2,144,Gpay,4
+462468336,2/2/2018,13:18,Male,Park lane,Dallas,Yes,Furniture,80,4,320,Card,2
+629406644,2/11/2018,18:02,Male,Brookfield,NewYork,Yes,Groceries,30,4,120,Gpay,1
+474601530,3/8/2018,15:18,Female,Brookfield,NewYork,No,Sporting,70,3,210,Gpay,4
+462439346,3/6/2018,11:17,Male,Park lane,Dallas,Yes,Sporting,62,7,434,Cash,5
+215114097,1/26/2018,20:24,Female,Park lane,Dallas,Yes,Fashion,4,6,24,Card,5
+543642731,3/6/2018,15:48,Female,Park lane,Dallas,No,Books,25,4,100,Cash,1
+481437943,1/10/2018,14:35,Female,Brookfield,NewYork,No,Clothing,58,4,232,Gpay,3
+124926696,1/7/2018,18:14,Male,Water tower,Chicago,Yes,Groceries,36,5,180,Cash,5
+129896806,1/27/2018,17:16,Female,Brookfield,NewYork,No,Groceries,93,4,372,Card,2
+706578333,3/28/2018,11:12,Female,Water tower,Chicago,No,Sporting,61,1,61,Gpay,2
+801334050,1/21/2018,20:18,Female,Park lane,Dallas,No,Furniture,1,1,1,Gpay,2
+442630573,3/14/2018,13:58,Female,Park lane,Dallas,Yes,Furniture,42,4,168,Card,4
+7730990,1/25/2018,18:35,Male,Water tower,Chicago,No,Groceries,8,7,56,Cash,2
+805244200,1/28/2018,19:55,Female,Water tower,Chicago,Yes,Books,80,3,240,Card,4
+458523449,2/25/2018,12:10,Female,Water tower,Chicago,Yes,Clothing,43,1,43,Card,1
+762712864,1/18/2018,18:20,Female,Water tower,Chicago,No,Books,31,5,155,Gpay,3
+660523948,3/27/2018,18:51,Female,Park lane,Dallas,No,Books,97,2,194,Cash,4
+336253887,3/16/2018,13:14,Female,Brookfield,NewYork,No,Furniture,72,1,72,Card,1
+951079308,1/2/2018,19:05,Female,Water tower,Chicago,No,Furniture,36,4,144,Gpay,5
+447153891,1/11/2018,11:25,Male,Water tower,Chicago,No,Fashion,52,3,156,Cash,3
+795528663,3/13/2018,19:15,Male,Brookfield,NewYork,No,Furniture,81,1,81,Gpay,4
+343603860,2/4/2018,14:57,Female,Park lane,Dallas,No,Sporting,76,3,228,Card,3
+925499362,1/12/2018,11:22,Female,Brookfield,NewYork,Yes,Clothing,78,4,312,Gpay,2
+579316236,3/1/2018,13:44,Female,Water tower,Chicago,Yes,Books,77,4,308,Gpay,3
+445531158,2/9/2018,20:19,Female,Park lane,Dallas,No,Fashion,27,7,189,Gpay,5
+805526095,3/27/2018,18:00,Male,Park lane,Dallas,Yes,Furniture,56,1,56,Gpay,4
+576523018,2/15/2018,12:35,Male,Water tower,Chicago,No,Groceries,82,1,82,Card,4
+414119922,1/30/2018,11:07,Male,Water tower,Chicago,No,Sporting,44,7,308,Card,3
+123247697,2/8/2018,20:03,Male,Brookfield,NewYork,No,Groceries,22,7,154,Card,5
+40419058,1/26/2018,14:53,Male,Water tower,Chicago,Yes,Books,95,6,570,Card,1
+890497298,2/25/2018,18:06,Female,Water tower,Chicago,No,Clothing,69,2,138,Cash,2
+885702268,1/28/2018,12:45,Male,Brookfield,NewYork,No,Groceries,89,6,534,Card,1
+172252194,3/22/2018,20:10,Female,Park lane,Dallas,No,Books,41,6,246,Card,4
+866140211,2/25/2018,13:34,Female,Park lane,Dallas,No,Clothing,54,6,324,Gpay,4
+597678548,3/15/2018,17:35,Male,Water tower,Chicago,Yes,Sporting,34,3,102,Cash,1
+428818456,2/25/2018,18:50,Male,Park lane,Dallas,Yes,Books,94,5,470,Cash,2
+236950025,3/9/2018,12:40,Female,Brookfield,NewYork,Yes,Furniture,76,4,304,Card,3
+17451639,1/4/2018,14:58,Male,Water tower,Chicago,Yes,Groceries,68,3,204,Card,3
+102177003,2/11/2018,13:48,Female,Water tower,Chicago,No,Furniture,25,5,125,Card,1
+218871659,3/23/2018,13:58,Female,Park lane,Dallas,No,Clothing,88,2,176,Gpay,2
+380559090,3/12/2018,20:21,Male,Brookfield,NewYork,No,Furniture,86,3,258,Card,5
+503167669,2/3/2018,10:17,Female,Water tower,Chicago,Yes,Books,87,1,87,Card,4
+717822067,1/17/2018,19:28,Female,Park lane,Dallas,No,Clothing,44,4,176,Gpay,1
+690344669,3/5/2018,14:16,Female,Brookfield,NewYork,Yes,Sporting,57,6,342,Card,4
+142754784,1/19/2018,16:59,Male,Brookfield,NewYork,No,Furniture,73,2,146,Cash,3
+167561353,2/12/2018,15:51,Male,Water tower,Chicago,Yes,Sporting,83,1,83,Card,1
+254046171,2/25/2018,20:46,Female,Water tower,Chicago,No,Groceries,41,7,287,Gpay,2
+854537427,1/27/2018,10:29,Female,Water tower,Chicago,No,Fashion,65,5,325,Gpay,1
+747580730,1/8/2018,20:13,Female,Park lane,Dallas,Yes,Groceries,88,6,528,Gpay,5
+709844678,2/6/2018,14:28,Male,Water tower,Chicago,Yes,Furniture,88,2,176,Cash,3
+367955130,3/24/2018,14:28,Male,Park lane,Dallas,Yes,Clothing,83,7,581,Cash,1
+504897642,3/27/2018,15:26,Female,Park lane,Dallas,No,Fashion,96,3,288,Gpay,1
+747422231,1/16/2018,17:22,Male,Water tower,Chicago,Yes,Furniture,35,4,140,Gpay,5
+811044705,2/1/2018,18:15,Female,Brookfield,NewYork,Yes,Fashion,19,7,133,Gpay,1
+127073944,3/23/2018,12:25,Male,Water tower,Chicago,Yes,Sporting,1,2,2,Card,4
+871865175,1/7/2018,11:40,Female,Brookfield,NewYork,No,Groceries,43,3,129,Gpay,4
+620285039,1/16/2018,20:35,Male,Brookfield,NewYork,No,Furniture,25,6,150,Cash,1
+819356401,1/27/2018,11:42,Male,Water tower,Chicago,Yes,Sporting,10,2,20,Card,2
+911826601,1/6/2018,20:31,Female,Brookfield,NewYork,No,Sporting,52,3,156,Card,1
+669032497,3/8/2018,14:49,Male,Brookfield,NewYork,Yes,Books,38,6,228,Card,2
+225317134,3/5/2018,11:33,Male,Water tower,Chicago,No,Groceries,81,5,405,Cash,2
+653059896,1/4/2018,10:22,Female,Water tower,Chicago,No,Furniture,71,6,426,Gpay,1
+127629037,1/31/2018,18:01,Male,Park lane,Dallas,No,Books,53,2,106,Gpay,2
+758557542,1/24/2018,11:49,Male,Water tower,Chicago,Yes,Furniture,82,7,574,Cash,4
+565456402,1/23/2018,14:51,Female,Brookfield,NewYork,No,Groceries,28,1,28,Cash,3
+194348272,2/11/2018,19:38,Male,Park lane,Dallas,Yes,Sporting,28,3,84,Gpay,3
+193544907,1/5/2018,14:42,Male,Brookfield,NewYork,Yes,Fashion,76,2,152,Cash,2
+856147365,1/8/2018,13:28,Male,Water tower,Chicago,No,Groceries,4,2,8,Gpay,5
+6282900,1/31/2018,15:36,Male,Park lane,Dallas,No,Fashion,87,4,348,Gpay,4
+467919747,3/3/2018,19:41,Male,Park lane,Dallas,No,Clothing,13,2,26,Card,1
+927773751,3/12/2018,11:15,Male,Brookfield,NewYork,No,Groceries,97,1,97,Card,5
+794563981,1/13/2018,19:43,Female,Brookfield,NewYork,No,Clothing,93,5,465,Cash,1
+956599137,3/7/2018,12:28,Female,Park lane,Dallas,No,Furniture,68,5,340,Gpay,2
+324945582,3/5/2018,19:20,Female,Brookfield,NewYork,No,Groceries,21,1,21,Card,2
+759811716,2/25/2018,16:50,Female,Brookfield,NewYork,No,Clothing,51,1,51,Cash,3
+869486626,2/28/2018,12:07,Male,Water tower,Chicago,No,Clothing,56,7,392,Gpay,4
+28957439,1/27/2018,11:42,Male,Brookfield,NewYork,No,Furniture,50,7,350,Card,2
+186033359,2/26/2018,19:51,Female,Water tower,Chicago,Yes,Books,42,3,126,Card,3
+164945303,3/3/2018,14:42,Male,Park lane,Dallas,No,Furniture,38,4,152,Gpay,1
+702697570,2/2/2018,18:19,Male,Water tower,Chicago,Yes,Groceries,96,1,96,Cash,1
+867298669,3/6/2018,17:49,Female,Park lane,Dallas,Yes,Books,62,3,186,Card,4
+636062627,3/11/2018,18:44,Female,Park lane,Dallas,No,Books,46,4,184,Cash,5
+338808619,1/12/2018,19:46,Male,Water tower,Chicago,No,Fashion,71,5,355,Card,1
+874941247,3/1/2018,11:24,Female,Brookfield,NewYork,No,Sporting,27,1,27,Cash,3
+154062156,3/14/2018,18:33,Female,Brookfield,NewYork,No,Groceries,16,7,112,Gpay,5
+309278030,1/15/2018,20:43,Female,Brookfield,NewYork,No,Books,63,3,189,Gpay,1
+408055541,2/18/2018,10:12,Female,Brookfield,NewYork,Yes,Groceries,65,3,195,Cash,5
+304439467,2/19/2018,19:07,Female,Park lane,Dallas,No,Fashion,70,2,140,Cash,4
+790571300,2/7/2018,10:05,Male,Brookfield,NewYork,Yes,Furniture,70,2,140,Cash,1
+554782714,2/22/2018,11:51,Male,Park lane,Dallas,Yes,Clothing,93,4,372,Card,5
+407767721,2/13/2018,13:30,Male,Water tower,Chicago,Yes,Groceries,12,1,12,Cash,3
+976927980,1/6/2018,10:23,Female,Park lane,Dallas,Yes,Furniture,70,7,490,Cash,3
+882195569,2/19/2018,19:53,Female,Park lane,Dallas,No,Sporting,99,6,594,Gpay,2
+830582585,1/17/2018,15:27,Female,Water tower,Chicago,Yes,Books,56,6,336,Gpay,1
+847040407,3/21/2018,14:42,Female,Park lane,Dallas,No,Groceries,91,2,182,Card,1
+169212942,3/12/2018,10:50,Male,Park lane,Dallas,Yes,Clothing,65,4,260,Gpay,3
+953734168,1/29/2018,11:29,Male,Water tower,Chicago,Yes,Groceries,16,4,64,Cash,5
+638590060,1/27/2018,18:08,Female,Water tower,Chicago,No,Groceries,34,6,204,Gpay,5
+931257784,3/10/2018,18:43,Male,Brookfield,NewYork,Yes,Books,97,3,291,Gpay,3
+750628254,2/6/2018,18:21,Female,Park lane,Dallas,No,Clothing,78,3,234,Cash,5
+770662321,2/12/2018,16:57,Female,Water tower,Chicago,No,Books,68,7,476,Cash,4
+83503308,2/12/2018,12:45,Female,Brookfield,NewYork,Yes,Clothing,87,6,522,Cash,1
+412890331,3/21/2018,11:48,Male,Park lane,Dallas,Yes,Furniture,8,2,16,Gpay,2
+495407670,3/30/2018,15:30,Female,Park lane,Dallas,Yes,Groceries,3,7,21,Card,2
+248326361,3/10/2018,13:12,Male,Park lane,Dallas,Yes,Fashion,92,5,460,Card,5
+815235226,2/3/2018,19:30,Female,Brookfield,NewYork,No,Groceries,44,2,88,Card,4
+602216707,2/25/2018,16:54,Male,Brookfield,NewYork,Yes,Furniture,7,6,42,Gpay,3
+593868358,1/26/2018,17:15,Male,Park lane,Dallas,No,Groceries,35,7,245,Gpay,2
+193869187,2/5/2018,20:08,Male,Water tower,Chicago,No,Fashion,28,1,28,Card,5
+197573958,1/19/2018,14:04,Male,Brookfield,NewYork,No,Fashion,95,1,95,Cash,1
+285192890,3/30/2018,18:30,Female,Park lane,Dallas,No,Groceries,23,2,46,Card,4
+711435779,1/8/2018,19:09,Male,Water tower,Chicago,Yes,Groceries,33,7,231,Cash,5
+44612623,3/29/2018,19:30,Male,Park lane,Dallas,No,Sporting,91,5,455,Gpay,4
+35014815,2/13/2018,15:04,Male,Water tower,Chicago,Yes,Sporting,31,7,217,Cash,4
+167762066,3/23/2018,17:47,Female,Water tower,Chicago,No,Groceries,88,6,528,Cash,4
+11921691,1/15/2018,10:23,Male,Park lane,Dallas,Yes,Sporting,37,3,111,Cash,4
+341819247,1/16/2018,14:55,Male,Water tower,Chicago,Yes,Fashion,69,2,138,Cash,4
+85210798,2/28/2018,12:27,Female,Park lane,Dallas,Yes,Books,23,2,46,Cash,5
+994218721,3/15/2018,12:52,Male,Water tower,Chicago,Yes,Clothing,94,1,94,Gpay,1
+535101024,2/4/2018,15:06,Male,Park lane,Dallas,No,Clothing,77,6,462,Cash,5
+410200704,3/22/2018,12:46,Male,Brookfield,NewYork,No,Furniture,15,6,90,Gpay,1
+886247303,1/26/2018,10:36,Female,Brookfield,NewYork,No,Sporting,24,4,96,Cash,3
+671810515,2/17/2018,10:39,Male,Brookfield,NewYork,No,Furniture,99,3,297,Card,5
+198515038,2/17/2018,18:45,Female,Brookfield,NewYork,No,Books,33,1,33,Gpay,1
+601235443,3/21/2018,10:11,Female,Park lane,Dallas,Yes,Clothing,6,4,24,Cash,5
+135954136,1/8/2018,14:19,Female,Brookfield,NewYork,Yes,Groceries,34,5,170,Gpay,1
+574582487,3/22/2018,19:06,Female,Water tower,Chicago,Yes,Clothing,45,7,315,Cash,2
+479562097,2/16/2018,14:03,Female,Brookfield,NewYork,No,Books,39,1,39,Cash,2
+502303917,2/18/2018,16:11,Female,Water tower,Chicago,No,Clothing,26,6,156,Cash,5
+974725596,3/2/2018,13:29,Male,Brookfield,NewYork,Yes,Clothing,76,5,380,Cash,1
+696537741,3/9/2018,16:09,Male,Water tower,Chicago,No,Sporting,48,5,240,Gpay,4
+526319290,2/21/2018,18:48,Female,Park lane,Dallas,No,Books,49,3,147,Cash,1
+713844700,2/3/2018,15:31,Male,Park lane,Dallas,Yes,Fashion,84,7,588,Card,3
+43827556,2/9/2018,18:56,Female,Water tower,Chicago,Yes,Sporting,59,4,236,Cash,4
+477509532,3/2/2018,15:36,Male,Brookfield,NewYork,No,Clothing,97,6,582,Card,1
+44171400,2/16/2018,16:58,Male,Brookfield,NewYork,Yes,Furniture,97,5,485,Cash,1
+153179845,3/23/2018,19:44,Male,Brookfield,NewYork,Yes,Fashion,63,7,441,Card,2
+117928091,1/12/2018,16:26,Male,Park lane,Dallas,No,Furniture,29,2,58,Gpay,4
+934709822,1/12/2018,20:24,Female,Park lane,Dallas,No,Groceries,75,4,300,Card,5
+810206591,3/23/2018,10:02,Female,Brookfield,NewYork,No,Groceries,26,4,104,Card,3
+356354089,1/31/2018,12:43,Male,Water tower,Chicago,No,Books,83,3,249,Cash,3
+443595980,2/15/2018,20:54,Male,Water tower,Chicago,Yes,Sporting,39,2,78,Cash,4
+198739739,2/7/2018,13:00,Female,Brookfield,NewYork,No,Sporting,64,1,64,Cash,3
+78470616,2/9/2018,12:36,Female,Brookfield,NewYork,Yes,Groceries,57,1,57,Card,4
+918276539,1/17/2018,15:34,Female,Park lane,Dallas,Yes,Sporting,99,3,297,Gpay,2
+654769276,2/26/2018,12:07,Male,Park lane,Dallas,Yes,Clothing,86,1,86,Gpay,3
+674917531,1/11/2018,17:59,Male,Water tower,Chicago,Yes,Clothing,29,6,174,Cash,1
+456554642,1/19/2018,19:44,Female,Water tower,Chicago,Yes,Books,40,5,200,Card,4
+36650026,1/5/2018,12:27,Female,Water tower,Chicago,No,Clothing,84,5,420,Card,4
+281704062,3/14/2018,10:11,Female,Brookfield,NewYork,Yes,Sporting,93,6,558,Cash,3
+829100088,1/14/2018,18:58,Male,Brookfield,NewYork,Yes,Clothing,67,3,201,Gpay,1
+57624229,3/21/2018,19:22,Female,Park lane,Dallas,No,Books,95,7,665,Gpay,4
+106617595,3/19/2018,18:58,Female,Water tower,Chicago,Yes,Fashion,69,5,345,Cash,4
+421671027,1/5/2018,17:48,Female,Water tower,Chicago,No,Furniture,45,6,270,Card,5
+31744605,2/23/2018,15:28,Male,Brookfield,NewYork,No,Sporting,83,4,332,Card,3
+861879814,1/25/2018,11:40,Female,Water tower,Chicago,Yes,Groceries,38,3,114,Card,2
+450751838,3/7/2018,16:55,Male,Water tower,Chicago,No,Clothing,29,6,174,Cash,3
+97675796,2/22/2018,14:44,Male,Water tower,Chicago,No,Books,85,5,425,Cash,4
+984776599,3/14/2018,20:46,Female,Brookfield,NewYork,Yes,Groceries,18,7,126,Cash,5
+257572368,1/27/2018,13:51,Female,Brookfield,NewYork,Yes,Furniture,56,3,168,Gpay,2
+562957126,2/23/2018,15:10,Female,Park lane,Dallas,No,Clothing,40,6,240,Gpay,3
+195736009,3/11/2018,12:28,Male,Brookfield,NewYork,No,Fashion,52,5,260,Gpay,5
+2901533,1/23/2018,16:28,Female,Park lane,Dallas,Yes,Groceries,46,5,230,Gpay,4
+674079919,2/16/2018,17:36,Female,Water tower,Chicago,Yes,Sporting,58,3,174,Gpay,1
+695051096,3/11/2018,17:08,Male,Water tower,Chicago,Yes,Groceries,51,6,306,Cash,3
+641757008,3/7/2018,12:15,Female,Brookfield,NewYork,No,Books,14,6,84,Cash,2
+824317466,2/13/2018,18:24,Female,Brookfield,NewYork,No,Furniture,18,4,72,Cash,4
+68184042,2/27/2018,10:52,Female,Brookfield,NewYork,No,Fashion,48,7,336,Gpay,5
+221236147,1/23/2018,14:41,Female,Brookfield,NewYork,Yes,Sporting,49,4,196,Gpay,4
+655804460,2/6/2018,12:39,Female,Brookfield,NewYork,No,Fashion,6,7,42,Gpay,5
+685355728,3/14/2018,16:28,Male,Park lane,Dallas,Yes,Sporting,12,7,84,Gpay,5
+779568185,2/1/2018,19:20,Female,Park lane,Dallas,Yes,Groceries,61,6,366,Gpay,2
+978367775,1/27/2018,15:26,Female,Park lane,Dallas,No,Books,96,3,288,Cash,5
+504581657,2/6/2018,10:06,Male,Water tower,Chicago,No,Fashion,3,2,6,Cash,4
+109398336,1/5/2018,12:38,Male,Water tower,Chicago,No,Clothing,25,4,100,Card,2
+932692079,2/7/2018,12:23,Male,Water tower,Chicago,Yes,Sporting,85,5,425,Card,4
+698871347,2/15/2018,15:31,Female,Brookfield,NewYork,No,Furniture,80,3,240,Gpay,5
+162175366,2/20/2018,11:52,Male,Water tower,Chicago,Yes,Sporting,76,4,304,Gpay,4
+232489616,2/27/2018,14:19,Female,Water tower,Chicago,No,Fashion,9,2,18,Gpay,3
+129579696,2/7/2018,18:10,Female,Brookfield,NewYork,No,Fashion,45,7,315,Gpay,3
+728354527,1/30/2018,12:42,Male,Brookfield,NewYork,No,Groceries,6,1,6,Gpay,4
+684643372,3/28/2018,18:30,Female,Park lane,Dallas,Yes,Furniture,12,1,12,Card,5
+516381043,1/1/2018,19:42,Female,Brookfield,NewYork,Yes,Books,42,3,126,Gpay,5
+651691190,1/22/2018,11:16,Male,Water tower,Chicago,Yes,Books,29,5,145,Cash,5
+451407692,1/21/2018,13:07,Male,Brookfield,NewYork,No,Sporting,14,3,42,Card,3
+905773587,1/1/2018,19:17,Female,Water tower,Chicago,Yes,Fashion,88,6,528,Card,4
+384317890,3/30/2018,15:14,Female,Water tower,Chicago,No,Groceries,85,6,510,Gpay,1
+768931253,2/16/2018,19:14,Female,Park lane,Dallas,Yes,Groceries,82,4,328,Gpay,4
+236780335,3/24/2018,20:51,Female,Park lane,Dallas,No,Clothing,7,7,49,Cash,5
+269353290,1/1/2018,12:29,Male,Water tower,Chicago,No,Furniture,49,4,196,Cash,5
+655696962,1/19/2018,15:48,Female,Brookfield,NewYork,No,Furniture,65,6,390,Cash,2
+39980231,1/1/2018,19:55,Male,Water tower,Chicago,No,Groceries,85,2,170,Card,1
+257066068,3/6/2018,15:10,Male,Park lane,Dallas,Yes,Furniture,16,4,64,Cash,1
+227543927,3/3/2018,18:44,Female,Water tower,Chicago,No,Clothing,14,1,14,Gpay,5
+652794877,2/7/2018,10:31,Female,Park lane,Dallas,Yes,Groceries,86,2,172,Gpay,5
+680516215,3/5/2018,11:36,Male,Brookfield,NewYork,Yes,Books,25,6,150,Cash,1
+238225027,1/9/2018,16:23,Female,Water tower,Chicago,No,Sporting,52,6,312,Cash,2
+655465754,3/10/2018,14:33,Male,Park lane,Dallas,No,Books,10,2,20,Gpay,3
+506086474,3/25/2018,19:53,Male,Park lane,Dallas,Yes,Groceries,57,2,114,Card,4
+174529819,1/29/2018,16:40,Female,Water tower,Chicago,Yes,Clothing,85,2,170,Cash,4
+50717104,1/3/2018,11:45,Male,Brookfield,NewYork,Yes,Clothing,98,4,392,Cash,2
+158853558,2/6/2018,14:38,Female,Brookfield,NewYork,No,Clothing,25,7,175,Card,5
+494243757,1/28/2018,20:38,Female,Park lane,Dallas,Yes,Sporting,84,6,504,Card,2
+308815481,2/6/2018,12:09,Male,Brookfield,NewYork,Yes,Furniture,41,3,123,Gpay,2
+66715258,1/17/2018,13:01,Male,Brookfield,NewYork,Yes,Groceries,67,1,67,Cash,2
+984652834,3/28/2018,20:01,Male,Brookfield,NewYork,Yes,Books,5,4,20,Card,3
+220725507,1/8/2018,11:51,Female,Park lane,Dallas,No,Clothing,82,3,246,Card,1
+721856885,1/10/2018,17:59,Female,Brookfield,NewYork,No,Fashion,30,1,30,Card,2
+376812677,1/10/2018,18:04,Female,Brookfield,NewYork,No,Furniture,11,3,33,Cash,4
+483683998,1/9/2018,17:38,Female,Park lane,Dallas,Yes,Sporting,58,3,174,Gpay,4
+50938395,2/23/2018,19:48,Female,Park lane,Dallas,Yes,Sporting,85,1,85,Cash,4
+875705737,2/15/2018,16:18,Female,Brookfield,NewYork,Yes,Fashion,22,5,110,Cash,3
+284834144,3/24/2018,17:15,Male,Brookfield,NewYork,No,Fashion,56,2,112,Gpay,3
+720008984,1/13/2018,12:51,Male,Brookfield,NewYork,No,Fashion,25,7,175,Gpay,2
+512270617,1/26/2018,15:27,Male,Brookfield,NewYork,No,Sporting,65,6,390,Gpay,2
+83087091,1/23/2018,12:23,Male,Brookfield,NewYork,Yes,Furniture,28,3,84,Gpay,4
+980805952,3/14/2018,18:42,Male,Water tower,Chicago,Yes,Clothing,19,2,38,Card,2
+873393858,3/16/2018,10:33,Female,Water tower,Chicago,Yes,Fashion,42,3,126,Gpay,5
+293869367,3/12/2018,14:00,Female,Park lane,Dallas,No,Clothing,95,5,475,Cash,1
+851846362,1/11/2018,19:09,Female,Park lane,Dallas,No,Groceries,10,4,40,Card,2
+929834878,2/5/2018,14:15,Male,Water tower,Chicago,No,Books,5,7,35,Card,1
+539267224,1/11/2018,18:58,Male,Park lane,Dallas,No,Furniture,93,7,651,Gpay,1
+73853764,1/26/2018,19:06,Female,Park lane,Dallas,Yes,Sporting,12,2,24,Cash,1
+344986480,1/16/2018,16:03,Male,Water tower,Chicago,Yes,Furniture,80,6,480,Cash,4
+308591699,3/30/2018,14:26,Female,Water tower,Chicago,No,Clothing,6,2,12,Gpay,4
+894833640,2/23/2018,16:42,Male,Park lane,Dallas,Yes,Fashion,35,5,175,Cash,5
+648725310,1/17/2018,12:02,Male,Park lane,Dallas,Yes,Books,64,1,64,Card,2
+196926207,3/3/2018,13:08,Female,Brookfield,NewYork,Yes,Clothing,7,4,28,Cash,3
+771290209,2/9/2018,15:27,Female,Brookfield,NewYork,No,Books,48,4,192,Cash,4
+970507874,1/28/2018,20:14,Male,Water tower,Chicago,Yes,Groceries,49,6,294,Cash,2
+743057968,1/20/2018,12:48,Male,Park lane,Dallas,No,Fashion,50,4,200,Gpay,1
+275243680,2/9/2018,10:19,Male,Brookfield,NewYork,Yes,Groceries,65,2,130,Cash,4
+933497703,3/15/2018,17:53,Male,Park lane,Dallas,No,Books,56,5,280,Gpay,1
+942593948,3/3/2018,12:02,Male,Water tower,Chicago,No,Furniture,26,6,156,Card,3
+437120776,1/16/2018,12:31,Female,Brookfield,NewYork,No,Furniture,82,1,82,Gpay,2
+232051542,3/22/2018,10:48,Male,Park lane,Dallas,No,Fashion,99,2,198,Card,3
+224808763,1/19/2018,11:30,Male,Park lane,Dallas,Yes,Clothing,33,3,99,Card,2
+446141418,2/27/2018,12:44,Female,Water tower,Chicago,Yes,Groceries,25,1,25,Gpay,4
+365905322,3/2/2018,17:03,Female,Brookfield,NewYork,Yes,Groceries,37,5,185,Cash,3
+850283822,2/19/2018,11:32,Female,Park lane,Dallas,No,Books,75,2,150,Card,2
+180358734,2/8/2018,16:44,Female,Water tower,Chicago,No,Clothing,70,4,280,Cash,2
+396167986,2/28/2018,16:34,Male,Water tower,Chicago,Yes,Sporting,39,5,195,Card,3
+715102058,1/22/2018,19:07,Female,Water tower,Chicago,Yes,Sporting,67,2,134,Gpay,1
+257556227,2/25/2018,18:10,Female,Water tower,Chicago,Yes,Fashion,61,4,244,Card,5
+816349456,3/2/2018,13:07,Male,Water tower,Chicago,No,Furniture,45,3,135,Gpay,2
+700946312,1/8/2018,13:19,Male,Brookfield,NewYork,Yes,Furniture,56,2,112,Gpay,3
+567888249,1/3/2018,13:46,Male,Park lane,Dallas,No,Books,89,7,623,Card,1
+53895458,2/3/2018,12:47,Female,Park lane,Dallas,Yes,Furniture,46,2,92,Cash,5
+466204296,1/29/2018,10:43,Female,Water tower,Chicago,No,Sporting,59,5,295,Cash,4
+552810173,2/7/2018,17:20,Female,Water tower,Chicago,No,Fashion,12,5,60,Card,1
+340961943,3/17/2018,20:59,Female,Park lane,Dallas,No,Fashion,85,3,255,Card,1
+279515562,1/30/2018,17:46,Female,Water tower,Chicago,Yes,Sporting,84,7,588,Gpay,3
+341665434,1/7/2018,16:37,Male,Brookfield,NewYork,No,Clothing,34,5,170,Card,5
+689943317,2/28/2018,11:36,Male,Park lane,Dallas,Yes,Groceries,73,1,73,Cash,3
+889075720,1/24/2018,12:14,Male,Brookfield,NewYork,Yes,Sporting,67,6,402,Card,5
+934951636,3/11/2018,18:08,Female,Water tower,Chicago,Yes,Fashion,42,2,84,Cash,1
+127091451,2/19/2018,15:44,Male,Park lane,Dallas,No,Furniture,67,4,268,Card,5
+136871602,2/13/2018,19:20,Female,Park lane,Dallas,Yes,Clothing,77,7,539,Cash,4
+354394929,2/6/2018,17:01,Male,Brookfield,NewYork,No,Books,83,4,332,Card,3
+458245119,3/20/2018,15:30,Male,Brookfield,NewYork,Yes,Sporting,71,5,355,Gpay,1
+115408508,3/8/2018,19:57,Male,Park lane,Dallas,Yes,Fashion,1,2,2,Gpay,3
+451887581,3/16/2018,13:29,Female,Park lane,Dallas,No,Books,39,6,234,Gpay,3
+990325172,1/16/2018,11:40,Female,Water tower,Chicago,Yes,Books,95,7,665,Card,5
+162506569,3/19/2018,16:34,Female,Park lane,Dallas,No,Clothing,34,5,170,Card,4
+750613805,3/1/2018,11:58,Male,Water tower,Chicago,Yes,Sporting,79,7,553,Card,3
+436393848,1/14/2018,20:39,Male,Water tower,Chicago,No,Clothing,1,2,2,Cash,5
+999023942,3/9/2018,10:02,Female,Park lane,Dallas,No,Books,40,7,280,Gpay,3
+142065472,2/4/2018,20:52,Male,Brookfield,NewYork,No,Furniture,65,5,325,Gpay,2
+954425515,1/8/2018,16:24,Male,Park lane,Dallas,Yes,Clothing,80,4,320,Gpay,1
+594159553,2/9/2018,18:07,Female,Brookfield,NewYork,Yes,Groceries,64,4,256,Gpay,5
+887631897,3/25/2018,19:33,Male,Park lane,Dallas,Yes,Furniture,37,5,185,Cash,5
+566548997,2/18/2018,20:19,Female,Water tower,Chicago,Yes,Sporting,32,6,192,Gpay,1
+283618078,2/7/2018,14:43,Male,Water tower,Chicago,No,Furniture,51,1,51,Gpay,2
+367742401,3/27/2018,15:29,Female,Brookfield,NewYork,No,Fashion,49,5,245,Card,1
+970329849,3/26/2018,14:42,Female,Brookfield,NewYork,No,Fashion,32,6,192,Cash,5
+599614471,1/14/2018,15:42,Male,Water tower,Chicago,No,Furniture,44,4,176,Cash,2
+789777993,2/22/2018,16:45,Male,Water tower,Chicago,Yes,Furniture,87,6,522,Gpay,1
+324836028,2/22/2018,16:28,Male,Brookfield,NewYork,No,Fashion,66,6,396,Card,3
+421646627,2/2/2018,19:17,Female,Brookfield,NewYork,Yes,Groceries,87,4,348,Cash,1
+402693529,1/13/2018,20:23,Female,Park lane,Dallas,Yes,Furniture,10,2,20,Gpay,3
+434659485,3/30/2018,18:22,Male,Park lane,Dallas,No,Books,27,4,108,Gpay,2
+19060686,2/10/2018,10:29,Male,Brookfield,NewYork,Yes,Clothing,95,1,95,Gpay,2
+721015243,3/1/2018,15:28,Female,Brookfield,NewYork,No,Sporting,27,1,27,Card,1
+813988025,1/7/2018,17:29,Female,Water tower,Chicago,Yes,Books,45,1,45,Cash,1
+52015959,3/16/2018,10:17,Female,Water tower,Chicago,No,Fashion,63,4,252,Cash,3
+207722768,3/20/2018,16:53,Male,Water tower,Chicago,No,Clothing,4,4,16,Gpay,1
+419393017,2/5/2018,15:24,Female,Water tower,Chicago,No,Books,41,7,287,Cash,5
+329091275,1/3/2018,15:15,Male,Brookfield,NewYork,Yes,Clothing,86,7,602,Card,2
+140726998,3/14/2018,10:55,Male,Water tower,Chicago,Yes,Groceries,83,5,415,Gpay,1
+473326547,3/4/2018,11:23,Female,Park lane,Dallas,Yes,Clothing,52,7,364,Gpay,4
+905833326,1/29/2018,11:21,Female,Water tower,Chicago,No,Fashion,76,3,228,Gpay,2
+951990735,1/1/2018,11:43,Male,Water tower,Chicago,No,Sporting,55,3,165,Gpay,4
+224237578,3/5/2018,10:39,Female,Brookfield,NewYork,No,Fashion,84,6,504,Card,2
+66129710,1/19/2018,16:24,Female,Park lane,Dallas,No,Furniture,63,7,441,Cash,4
+255215946,3/9/2018,11:59,Male,Park lane,Dallas,No,Fashion,72,6,432,Gpay,3
+333840821,1/1/2018,15:52,Male,Water tower,Chicago,Yes,Sporting,93,3,279,Card,4
+117770025,1/18/2018,14:31,Male,Park lane,Dallas,No,Furniture,52,2,104,Card,3
+961791428,3/8/2018,18:09,Male,Water tower,Chicago,Yes,Sporting,64,7,448,Cash,1
+297913519,2/19/2018,11:45,Male,Water tower,Chicago,No,Groceries,45,7,315,Gpay,3
+371777788,2/8/2018,17:09,Female,Park lane,Dallas,Yes,Books,34,7,238,Card,5
+207465625,2/25/2018,20:31,Male,Park lane,Dallas,Yes,Groceries,64,1,64,Gpay,2
+711170035,1/15/2018,16:07,Male,Brookfield,NewYork,No,Clothing,17,5,85,Card,5
+767992235,1/21/2018,11:32,Female,Water tower,Chicago,Yes,Groceries,84,5,420,Cash,3
+101181180,3/15/2018,19:40,Male,Brookfield,NewYork,No,Furniture,12,6,72,Cash,2
+764557539,1/15/2018,16:10,Male,Park lane,Dallas,Yes,Sporting,78,3,234,Gpay,2
+648584786,2/2/2018,15:10,Male,Park lane,Dallas,Yes,Furniture,3,3,9,Cash,5
+758614852,3/10/2018,13:03,Male,Water tower,Chicago,No,Furniture,48,2,96,Cash,1
+282169081,3/26/2018,13:10,Female,Water tower,Chicago,Yes,Furniture,8,7,56,Cash,1
+392872067,1/19/2018,18:55,Male,Water tower,Chicago,No,Sporting,18,6,108,Gpay,5
+420364596,1/25/2018,15:05,Female,Park lane,Dallas,No,Fashion,25,5,125,Cash,3
+741634505,2/10/2018,18:14,Female,Brookfield,NewYork,Yes,Furniture,71,6,426,Cash,2
+554747535,2/4/2018,13:08,Male,Park lane,Dallas,No,Clothing,89,6,534,Cash,5
+939400968,1/31/2018,19:26,Female,Water tower,Chicago,Yes,Groceries,51,5,255,Gpay,3
+597263687,2/5/2018,14:35,Female,Park lane,Dallas,No,Furniture,36,2,72,Card,4
+92938418,1/30/2018,13:06,Male,Water tower,Chicago,Yes,Sporting,6,5,30,Gpay,5
+416916918,1/1/2018,17:04,Female,Park lane,Dallas,Yes,Books,83,7,581,Gpay,4
+585382118,1/13/2018,17:27,Female,Park lane,Dallas,Yes,Fashion,35,7,245,Card,1
+342332555,1/5/2018,19:30,Male,Water tower,Chicago,No,Sporting,23,3,69,Gpay,3
+405920104,1/15/2018,14:13,Male,Brookfield,NewYork,No,Groceries,60,7,420,Card,5
+566171221,3/26/2018,10:04,Female,Brookfield,NewYork,No,Books,8,3,24,Gpay,3
+379272141,3/19/2018,12:20,Female,Park lane,Dallas,No,Groceries,73,2,146,Card,3
+720089935,1/31/2018,10:33,Male,Park lane,Dallas,Yes,Sporting,94,1,94,Card,1
+872530273,2/7/2018,10:36,Female,Park lane,Dallas,No,Groceries,18,5,90,Card,2
+337208704,3/16/2018,19:42,Male,Brookfield,NewYork,No,Furniture,36,3,108,Gpay,5
+173188859,2/12/2018,13:26,Female,Brookfield,NewYork,Yes,Sporting,100,2,200,Card,5
+253349866,2/16/2018,19:06,Male,Brookfield,NewYork,Yes,Books,44,1,44,Cash,1
+664675610,2/15/2018,20:34,Male,Water tower,Chicago,Yes,Fashion,54,6,324,Cash,5
+67305392,1/14/2018,14:42,Male,Brookfield,NewYork,No,Furniture,65,4,260,Gpay,5
+780847506,2/14/2018,14:08,Male,Brookfield,NewYork,No,Clothing,100,4,400,Gpay,1
+760815139,3/4/2018,15:16,Female,Park lane,Dallas,No,Sporting,10,1,10,Card,1
+558305760,3/12/2018,19:44,Female,Brookfield,NewYork,Yes,Books,59,4,236,Card,3
+225685706,2/22/2018,12:47,Male,Brookfield,NewYork,No,Sporting,33,7,231,Card,1
+187709802,1/24/2018,10:43,Male,Brookfield,NewYork,Yes,Fashion,20,1,20,Cash,1
+341556579,2/4/2018,18:15,Female,Park lane,Dallas,Yes,Books,30,1,30,Gpay,5
+8348928,2/25/2018,17:04,Female,Water tower,Chicago,No,Furniture,57,7,399,Cash,5
+54357163,3/9/2018,19:35,Male,Water tower,Chicago,Yes,Furniture,87,1,87,Gpay,2
+813009806,3/15/2018,19:57,Female,Park lane,Dallas,Yes,Books,21,7,147,Card,1
+611755583,1/8/2018,14:05,Female,Brookfield,NewYork,Yes,Groceries,67,5,335,Gpay,1
+504726757,1/31/2018,18:17,Male,Brookfield,NewYork,Yes,Sporting,78,3,234,Gpay,5
+285259108,2/24/2018,13:01,Female,Brookfield,NewYork,Yes,Sporting,12,6,72,Card,1
+148516620,2/8/2018,12:29,Female,Brookfield,NewYork,No,Books,10,3,30,Cash,2
+944594455,3/23/2018,13:05,Female,Brookfield,NewYork,Yes,Furniture,74,7,518,Cash,5
+317999524,2/16/2018,15:04,Female,Park lane,Dallas,Yes,Clothing,7,3,21,Cash,4
+222207991,2/13/2018,19:01,Male,Park lane,Dallas,No,Groceries,51,4,204,Card,3
+580338541,1/6/2018,10:28,Female,Park lane,Dallas,Yes,Furniture,10,1,10,Card,4
+515937823,1/29/2018,11:27,Male,Park lane,Dallas,Yes,Books,99,4,396,Card,5
+677762983,1/26/2018,10:12,Female,Park lane,Dallas,No,Furniture,37,4,148,Card,4
+106004790,3/2/2018,11:28,Female,Brookfield,NewYork,No,Clothing,100,2,200,Cash,3
+837769142,2/2/2018,20:37,Male,Park lane,Dallas,No,Fashion,84,1,84,Cash,4
+416455705,3/25/2018,12:40,Female,Water tower,Chicago,Yes,Groceries,56,1,56,Card,1
+17738524,2/20/2018,13:18,Male,Water tower,Chicago,No,Clothing,83,7,581,Cash,5
+217203015,3/30/2018,18:33,Male,Brookfield,NewYork,No,Books,49,5,245,Card,1
+307120566,2/15/2018,17:36,Male,Water tower,Chicago,No,Fashion,13,4,52,Card,4
+955096223,1/6/2018,10:36,Female,Park lane,Dallas,Yes,Clothing,18,1,18,Gpay,4
+168568639,2/24/2018,11:39,Male,Park lane,Dallas,No,Sporting,45,3,135,Gpay,4
+613417869,2/1/2018,17:44,Male,Water tower,Chicago,Yes,Groceries,95,1,95,Card,1
+398685229,3/9/2018,16:21,Female,Water tower,Chicago,No,Fashion,94,7,658,Gpay,1
+549324879,1/28/2018,19:42,Female,Park lane,Dallas,No,Furniture,8,6,48,Gpay,5
+282649788,2/11/2018,19:29,Male,Brookfield,NewYork,No,Groceries,25,5,125,Gpay,2
+746691205,2/2/2018,20:54,Female,Park lane,Dallas,Yes,Groceries,59,4,236,Card,3
+261411790,3/29/2018,15:51,Male,Brookfield,NewYork,No,Groceries,10,1,10,Cash,3
+274303941,2/22/2018,16:10,Female,Park lane,Dallas,Yes,Clothing,89,5,445,Card,4
+834905658,3/2/2018,18:38,Female,Water tower,Chicago,No,Groceries,30,3,90,Gpay,5
+461308403,3/3/2018,13:58,Male,Brookfield,NewYork,No,Furniture,79,7,553,Card,2
+402577239,3/5/2018,19:33,Female,Water tower,Chicago,Yes,Books,83,6,498,Card,2
+226194186,1/18/2018,15:52,Female,Brookfield,NewYork,No,Books,73,3,219,Cash,4
+259223127,3/26/2018,11:44,Female,Water tower,Chicago,No,Clothing,23,6,138,Cash,5
+33596994,2/15/2018,19:42,Male,Brookfield,NewYork,Yes,Fashion,59,2,118,Gpay,1
+188681488,3/25/2018,16:19,Male,Water tower,Chicago,No,Sporting,16,6,96,Cash,2
+344018383,3/11/2018,16:23,Female,Park lane,Dallas,No,Fashion,23,3,69,Cash,3
+652344775,1/13/2018,20:38,Female,Park lane,Dallas,Yes,Books,5,4,20,Card,1
+982619463,2/27/2018,18:14,Female,Brookfield,NewYork,No,Fashion,99,3,297,Card,2
+778986959,1/24/2018,16:49,Female,Water tower,Chicago,No,Sporting,88,4,352,Card,4
+230034350,3/9/2018,17:38,Male,Park lane,Dallas,Yes,Fashion,92,7,644,Card,5
+505330940,1/20/2018,15:10,Male,Water tower,Chicago,Yes,Sporting,27,2,54,Cash,3
+354305028,3/2/2018,10:36,Male,Brookfield,NewYork,No,Furniture,37,6,222,Gpay,5
+774570372,3/28/2018,18:08,Female,Park lane,Dallas,No,Groceries,51,7,357,Card,2
+810322530,1/30/2018,17:24,Female,Water tower,Chicago,Yes,Clothing,32,7,224,Gpay,1
+607275572,2/5/2018,11:21,Female,Water tower,Chicago,Yes,Groceries,81,7,567,Card,5
+61448841,3/10/2018,13:44,Female,Brookfield,NewYork,Yes,Books,74,4,296,Cash,5
+753449647,3/19/2018,18:27,Male,Brookfield,NewYork,No,Clothing,48,4,192,Gpay,3
+385301688,2/23/2018,16:21,Female,Brookfield,NewYork,No,Furniture,82,7,574,Gpay,3
+106779665,2/11/2018,11:20,Female,Park lane,Dallas,No,Sporting,16,2,32,Cash,5
+648139072,1/24/2018,17:58,Female,Water tower,Chicago,Yes,Fashion,62,1,62,Card,5
+906293682,1/10/2018,18:10,Male,Water tower,Chicago,Yes,Groceries,49,5,245,Gpay,2
+734143201,3/1/2018,19:18,Female,Brookfield,NewYork,Yes,Furniture,91,6,546,Gpay,1
+213757068,3/14/2018,13:24,Male,Park lane,Dallas,No,Furniture,65,7,455,Card,1
+539555519,3/9/2018,19:48,Female,Park lane,Dallas,Yes,Sporting,81,5,405,Card,5
+187418894,1/12/2018,14:11,Male,Water tower,Chicago,Yes,Books,71,4,284,Card,3
+457563015,1/20/2018,16:40,Female,Park lane,Dallas,Yes,Sporting,53,7,371,Card,5
+177467181,1/23/2018,18:59,Female,Water tower,Chicago,Yes,Clothing,96,6,576,Cash,5
+436716459,1/27/2018,19:01,Female,Park lane,Dallas,No,Furniture,39,7,273,Cash,3
+752220527,3/16/2018,15:49,Female,Brookfield,NewYork,Yes,Clothing,41,5,205,Card,2
+670227755,3/19/2018,19:47,Female,Park lane,Dallas,No,Furniture,62,5,310,Cash,2
+986239732,1/12/2018,18:02,Female,Brookfield,NewYork,No,Clothing,9,5,45,Card,2
+20632381,1/17/2018,15:23,Female,Park lane,Dallas,Yes,Fashion,54,2,108,Card,1
+964883376,3/7/2018,12:43,Female,Brookfield,NewYork,No,Clothing,1,2,2,Gpay,4
+487019311,1/21/2018,16:33,Female,Brookfield,NewYork,Yes,Furniture,3,1,3,Cash,5
+700177218,1/8/2018,12:02,Male,Park lane,Dallas,No,Fashion,56,3,168,Gpay,5
+541459341,1/10/2018,16:24,Female,Brookfield,NewYork,Yes,Groceries,22,5,110,Gpay,3
+929160771,3/18/2018,20:14,Male,Brookfield,NewYork,No,Sporting,74,1,74,Cash,3
+486660199,3/6/2018,17:45,Male,Water tower,Chicago,Yes,Books,37,5,185,Card,3
+450190302,3/10/2018,10:26,Male,Park lane,Dallas,No,Furniture,44,3,132,Cash,4
+185626182,2/24/2018,10:50,Male,Park lane,Dallas,Yes,Books,66,6,396,Cash,5
+320206656,3/20/2018,19:20,Male,Water tower,Chicago,No,Books,42,1,42,Card,1
+481709660,2/17/2018,12:40,Female,Brookfield,NewYork,Yes,Furniture,61,4,244,Card,4
+915042564,1/8/2018,13:23,Male,Park lane,Dallas,No,Books,47,2,94,Cash,1
+337543764,1/30/2018,14:08,Male,Park lane,Dallas,No,Fashion,24,6,144,Cash,2
+276890647,3/26/2018,18:19,Male,Park lane,Dallas,No,Sporting,1,7,7,Gpay,4
+475698242,2/19/2018,19:21,Male,Brookfield,NewYork,Yes,Clothing,31,6,186,Gpay,2
+522650837,1/1/2018,19:07,Male,Water tower,Chicago,Yes,Clothing,59,1,59,Gpay,1
+982386222,3/4/2018,20:03,Female,Park lane,Dallas,Yes,Books,30,4,120,Gpay,1
+251721361,1/25/2018,13:05,Male,Water tower,Chicago,No,Fashion,89,2,178,Gpay,1
+646176653,3/10/2018,19:39,Male,Park lane,Dallas,Yes,Sporting,1,1,1,Cash,2
+712707662,2/17/2018,18:59,Male,Brookfield,NewYork,No,Furniture,26,7,182,Gpay,5
+532568082,1/27/2018,17:44,Male,Park lane,Dallas,Yes,Books,77,3,231,Cash,2
+9448427,3/2/2018,13:11,Male,Brookfield,NewYork,Yes,Groceries,14,7,98,Card,2
+556712257,1/2/2018,13:58,Male,Park lane,Dallas,No,Sporting,93,2,186,Gpay,4
+344763004,1/14/2018,15:01,Male,Park lane,Dallas,No,Clothing,77,2,154,Card,5
+302922787,1/18/2018,10:25,Male,Brookfield,NewYork,No,Books,80,3,240,Gpay,2
+415609214,2/20/2018,10:37,Female,Brookfield,NewYork,No,Books,14,5,70,Cash,4
+571374380,2/20/2018,17:16,Male,Water tower,Chicago,No,Sporting,10,1,10,Card,5
+739222343,3/22/2018,14:29,Female,Park lane,Dallas,Yes,Books,19,7,133,Cash,3
+708221956,2/19/2018,14:36,Male,Brookfield,NewYork,No,Groceries,84,1,84,Gpay,5
+262731416,2/15/2018,14:06,Male,Park lane,Dallas,No,Books,44,6,264,Gpay,2
+622007693,1/27/2018,11:40,Female,Brookfield,NewYork,Yes,Sporting,76,6,456,Card,4
+898288915,1/9/2018,11:06,Female,Park lane,Dallas,Yes,Sporting,68,2,136,Gpay,5
+11556830,1/5/2018,19:39,Female,Park lane,Dallas,No,Sporting,65,2,130,Gpay,1
+144597774,3/11/2018,11:55,Male,Brookfield,NewYork,Yes,Fashion,52,1,52,Cash,2
+61600371,1/2/2018,15:40,Female,Park lane,Dallas,No,Groceries,28,2,56,Card,3
+169697714,3/19/2018,10:55,Female,Water tower,Chicago,No,Clothing,49,1,49,Card,3
+113236778,2/12/2018,13:30,Male,Brookfield,NewYork,Yes,Books,31,4,124,Card,4
+307925289,2/5/2018,10:25,Female,Park lane,Dallas,No,Clothing,100,5,500,Gpay,3
+326311886,1/23/2018,11:26,Male,Water tower,Chicago,No,Sporting,23,4,92,Card,5
+988159876,1/8/2018,14:16,Female,Brookfield,NewYork,Yes,Furniture,56,4,224,Card,4
+437241799,3/10/2018,19:02,Male,Water tower,Chicago,No,Groceries,28,5,140,Card,4
+486005290,2/25/2018,18:22,Female,Brookfield,NewYork,Yes,Groceries,47,2,94,Card,3
+524232746,1/29/2018,20:33,Female,Brookfield,NewYork,No,Fashion,30,4,120,Cash,1
+357755511,3/12/2018,15:01,Female,Park lane,Dallas,No,Sporting,86,4,344,Cash,3
+445899503,1/24/2018,18:27,Female,Park lane,Dallas,Yes,Groceries,88,2,176,Card,2
+950297423,2/13/2018,12:01,Male,Brookfield,NewYork,Yes,Fashion,85,2,170,Cash,4
+870706788,2/7/2018,13:45,Male,Brookfield,NewYork,Yes,Clothing,7,5,35,Gpay,1
+423084173,1/19/2018,17:36,Female,Brookfield,NewYork,No,Books,70,2,140,Cash,2
+693339406,2/2/2018,15:42,Male,Brookfield,NewYork,No,Books,100,4,400,Gpay,4
+403665053,1/14/2018,14:04,Female,Water tower,Chicago,Yes,Furniture,5,1,5,Card,3
+98053785,1/25/2018,11:00,Male,Water tower,Chicago,Yes,Sporting,97,6,582,Cash,2
+817802098,2/18/2018,15:25,Male,Brookfield,NewYork,Yes,Books,63,5,315,Cash,2
+614410397,1/25/2018,12:41,Male,Water tower,Chicago,No,Clothing,64,6,384,Cash,5
+882885054,3/15/2018,14:38,Male,Water tower,Chicago,Yes,Books,40,2,80,Cash,4
+581788719,3/8/2018,20:40,Female,Park lane,Dallas,No,Fashion,87,3,261,Cash,3
+476245246,1/25/2018,10:21,Female,Brookfield,NewYork,No,Books,85,3,255,Card,4
+438129906,1/7/2018,10:34,Male,Water tower,Chicago,Yes,Clothing,77,3,231,Card,5
+538260504,3/26/2018,15:42,Male,Brookfield,NewYork,Yes,Sporting,94,6,564,Card,5
+945941125,1/25/2018,16:43,Male,Brookfield,NewYork,Yes,Groceries,16,3,48,Card,1
+247158611,2/8/2018,16:27,Female,Brookfield,NewYork,No,Fashion,5,1,5,Cash,3
+713366374,2/16/2018,17:27,Male,Water tower,Chicago,No,Fashion,60,5,300,Card,2
+14609870,1/22/2018,11:28,Female,Park lane,Dallas,Yes,Groceries,72,1,72,Cash,2
+336836343,3/20/2018,11:38,Male,Brookfield,NewYork,Yes,Clothing,23,5,115,Gpay,3
+958121296,1/8/2018,20:03,Female,Brookfield,NewYork,No,Sporting,11,4,44,Card,5
+939338787,3/6/2018,13:24,Female,Water tower,Chicago,No,Sporting,11,5,55,Card,1
+170601848,2/5/2018,11:58,Male,Water tower,Chicago,Yes,Sporting,58,1,58,Gpay,5
+387707923,2/13/2018,11:07,Female,Park lane,Dallas,Yes,Fashion,75,5,375,Gpay,1
+545078026,3/24/2018,12:52,Male,Brookfield,NewYork,Yes,Clothing,31,3,93,Cash,1
+704651116,3/15/2018,12:44,Female,Water tower,Chicago,No,Sporting,68,4,272,Card,3
+42349908,2/15/2018,20:37,Male,Park lane,Dallas,No,Clothing,10,5,50,Gpay,2
+135768329,1/4/2018,19:24,Female,Park lane,Dallas,No,Sporting,8,2,16,Cash,1
+483457878,1/26/2018,11:52,Female,Brookfield,NewYork,Yes,Groceries,68,4,272,Cash,1
+555960560,2/10/2018,20:43,Female,Water tower,Chicago,Yes,Fashion,82,5,410,Gpay,1
+282376295,2/24/2018,20:26,Female,Water tower,Chicago,Yes,Furniture,78,6,468,Cash,5
+798873199,3/13/2018,10:37,Male,Brookfield,NewYork,Yes,Clothing,87,3,261,Cash,1
+35680963,2/15/2018,11:25,Female,Brookfield,NewYork,Yes,Furniture,75,6,450,Cash,5
+541013147,3/7/2018,17:26,Female,Brookfield,NewYork,No,Sporting,73,3,219,Gpay,1
+786500499,1/13/2018,19:43,Male,Park lane,Dallas,No,Books,41,5,205,Gpay,5
+370671668,3/13/2018,20:07,Male,Park lane,Dallas,No,Fashion,51,1,51,Cash,1
+764424609,3/7/2018,16:32,Female,Water tower,Chicago,No,Books,4,7,28,Gpay,4
+661405,3/6/2018,11:32,Male,Brookfield,NewYork,Yes,Clothing,91,4,364,Cash,3
+858902305,3/29/2018,14:42,Male,Park lane,Dallas,No,Groceries,47,4,188,Cash,4
+451143604,3/17/2018,12:37,Female,Brookfield,NewYork,Yes,Books,5,1,5,Gpay,4
+351840920,2/25/2018,17:56,Female,Park lane,Dallas,No,Sporting,67,1,67,Cash,1
+720613115,1/6/2018,15:36,Female,Park lane,Dallas,Yes,Books,5,3,15,Card,2
+59555036,2/5/2018,14:40,Female,Brookfield,NewYork,No,Sporting,78,7,546,Cash,3
+593682157,2/20/2018,15:16,Male,Brookfield,NewYork,Yes,Fashion,82,2,164,Gpay,3
+11986994,2/3/2018,14:51,Male,Water tower,Chicago,Yes,Sporting,16,3,48,Card,2
+996041528,3/4/2018,12:45,Female,Park lane,Dallas,No,Fashion,24,7,168,Gpay,3
+828419755,1/18/2018,18:53,Female,Park lane,Dallas,Yes,Sporting,91,7,637,Card,5
+720387839,3/11/2018,13:59,Male,Brookfield,NewYork,Yes,Sporting,71,7,497,Cash,2
+687050813,3/20/2018,11:18,Male,Brookfield,NewYork,No,Clothing,37,3,111,Card,3
+510821622,2/3/2018,18:27,Male,Park lane,Dallas,No,Books,80,7,560,Cash,2
+87236970,1/15/2018,16:44,Male,Brookfield,NewYork,Yes,Groceries,2,2,4,Gpay,3
+833998175,1/10/2018,10:26,Male,Water tower,Chicago,No,Clothing,9,4,36,Cash,2
+777524991,1/26/2018,16:54,Male,Park lane,Dallas,Yes,Sporting,95,3,285,Card,5
+188038628,3/2/2018,14:14,Female,Park lane,Dallas,No,Sporting,50,2,100,Gpay,3
+282446743,3/1/2018,13:58,Female,Water tower,Chicago,Yes,Fashion,2,6,12,Cash,1
+337885011,2/14/2018,18:43,Male,Park lane,Dallas,Yes,Clothing,53,1,53,Cash,3
+372301333,2/5/2018,16:30,Male,Park lane,Dallas,Yes,Fashion,87,1,87,Cash,3
+329548692,2/17/2018,17:13,Male,Brookfield,NewYork,Yes,Sporting,1,6,6,Gpay,1
+751714562,3/20/2018,19:11,Female,Water tower,Chicago,Yes,Sporting,43,7,301,Gpay,4
+764808876,3/1/2018,12:55,Male,Brookfield,NewYork,Yes,Sporting,98,5,490,Card,1
+816729463,3/2/2018,18:03,Female,Water tower,Chicago,Yes,Fashion,84,6,504,Card,5
+429753844,2/9/2018,20:48,Male,Water tower,Chicago,Yes,Furniture,77,6,462,Gpay,5
+871734799,1/28/2018,20:21,Male,Park lane,Dallas,Yes,Books,22,2,44,Card,4
+610628170,2/21/2018,17:26,Female,Brookfield,NewYork,No,Fashion,15,5,75,Cash,3
+985003081,3/20/2018,19:24,Male,Water tower,Chicago,Yes,Furniture,79,3,237,Card,4
+22386421,1/3/2018,16:04,Female,Park lane,Dallas,Yes,Books,55,7,385,Gpay,5
+176429191,1/14/2018,11:36,Male,Water tower,Chicago,Yes,Sporting,38,6,228,Cash,2
+270918350,3/27/2018,13:21,Female,Park lane,Dallas,Yes,Groceries,99,7,693,Gpay,2
+807807551,3/14/2018,11:51,Female,Water tower,Chicago,No,Books,62,1,62,Gpay,4
+798981206,1/2/2018,18:03,Female,Brookfield,NewYork,No,Books,50,7,350,Card,3
+522353295,3/1/2018,10:17,Male,Water tower,Chicago,No,Books,33,4,132,Gpay,4
+786464271,2/4/2018,11:02,Male,Water tower,Chicago,Yes,Books,77,2,154,Card,2
+446983200,1/23/2018,13:32,Female,Park lane,Dallas,No,Furniture,90,1,90,Card,4
+23845634,1/7/2018,17:15,Female,Park lane,Dallas,Yes,Furniture,52,4,208,Gpay,2
+422068723,1/15/2018,19:54,Female,Brookfield,NewYork,Yes,Sporting,11,1,11,Gpay,1
+217846748,3/8/2018,18:06,Female,Water tower,Chicago,No,Books,98,5,490,Gpay,5
+6028484,2/2/2018,15:59,Female,Water tower,Chicago,Yes,Books,31,4,124,Card,4
+962722016,2/13/2018,20:00,Female,Water tower,Chicago,Yes,Fashion,5,3,15,Card,4
+866434633,1/30/2018,15:12,Female,Brookfield,NewYork,No,Books,5,7,35,Gpay,1
+989851843,3/12/2018,10:33,Male,Water tower,Chicago,Yes,Groceries,12,2,24,Card,3
+818588106,2/17/2018,13:05,Female,Brookfield,NewYork,No,Groceries,87,7,609,Card,5
+640968118,1/9/2018,15:45,Male,Water tower,Chicago,Yes,Sporting,73,6,438,Cash,1
+313217211,3/23/2018,19:20,Female,Water tower,Chicago,Yes,Fashion,46,4,184,Cash,2
+473189761,1/23/2018,17:16,Male,Brookfield,NewYork,No,Fashion,19,7,133,Card,4
+166640927,1/31/2018,18:23,Male,Park lane,Dallas,No,Furniture,40,2,80,Gpay,2
+751965233,2/14/2018,20:05,Male,Water tower,Chicago,No,Books,60,6,360,Card,3
+32111135,1/24/2018,10:33,Female,Park lane,Dallas,Yes,Furniture,43,6,258,Gpay,4
+404017492,2/26/2018,13:53,Female,Park lane,Dallas,No,Fashion,23,1,23,Cash,2
+745923301,1/11/2018,12:56,Male,Water tower,Chicago,Yes,Groceries,64,5,320,Cash,1
+947595754,1/26/2018,20:13,Female,Park lane,Dallas,No,Sporting,61,7,427,Cash,3
+665212090,3/28/2018,13:37,Female,Park lane,Dallas,Yes,Clothing,81,7,567,Cash,4
+481017545,2/18/2018,20:32,Male,Park lane,Dallas,Yes,Books,46,5,230,Card,4
+318193227,3/7/2018,13:55,Female,Brookfield,NewYork,No,Furniture,3,3,9,Gpay,4
+60015389,2/24/2018,10:40,Male,Brookfield,NewYork,Yes,Fashion,74,5,370,Cash,5
+687175376,2/21/2018,19:58,Male,Park lane,Dallas,Yes,Fashion,96,1,96,Cash,2
+625292695,1/19/2018,15:05,Female,Brookfield,NewYork,Yes,Fashion,65,4,260,Card,1
+768261771,2/11/2018,11:55,Female,Water tower,Chicago,Yes,Groceries,6,5,30,Cash,4
+27577314,3/2/2018,17:01,Male,Water tower,Chicago,Yes,Groceries,7,2,14,Cash,4
+430740110,3/19/2018,12:46,Female,Water tower,Chicago,No,Groceries,87,7,609,Cash,5
+940094586,3/27/2018,11:23,Female,Water tower,Chicago,Yes,Books,1,3,3,Card,5
+218287621,3/15/2018,14:25,Male,Park lane,Dallas,No,Books,65,5,325,Gpay,5
+427648981,3/9/2018,20:24,Female,Brookfield,NewYork,Yes,Clothing,33,7,231,Card,4
+480994615,2/27/2018,18:22,Male,Brookfield,NewYork,No,Groceries,66,6,396,Cash,1
+365411914,2/17/2018,18:19,Male,Water tower,Chicago,Yes,Books,47,6,282,Cash,1
+942651953,1/28/2018,19:09,Male,Brookfield,NewYork,Yes,Fashion,10,1,10,Card,1
+555194821,3/12/2018,16:45,Male,Water tower,Chicago,No,Fashion,99,5,495,Gpay,5
+535703316,3/16/2018,15:08,Female,Park lane,Dallas,No,Sporting,72,4,288,Card,4
+386701465,3/27/2018,15:29,Male,Brookfield,NewYork,No,Groceries,34,6,204,Card,3
+573799925,3/17/2018,10:22,Female,Park lane,Dallas,Yes,Furniture,46,6,276,Cash,5
+928380831,2/10/2018,12:24,Male,Park lane,Dallas,Yes,Fashion,1,7,7,Cash,2
+279211087,3/6/2018,11:46,Female,Brookfield,NewYork,No,Groceries,75,1,75,Gpay,5
+927553480,2/1/2018,18:04,Female,Park lane,Dallas,Yes,Clothing,70,3,210,Cash,1
+492756803,3/24/2018,10:43,Male,Park lane,Dallas,Yes,Groceries,32,1,32,Gpay,1
+951090173,1/21/2018,15:12,Female,Water tower,Chicago,No,Groceries,51,7,357,Cash,4
+423886295,2/4/2018,19:38,Male,Brookfield,NewYork,No,Groceries,70,7,490,Gpay,2
+732840126,3/27/2018,19:39,Female,Water tower,Chicago,Yes,Groceries,79,2,158,Gpay,2
+357595679,1/15/2018,17:20,Male,Park lane,Dallas,Yes,Fashion,48,3,144,Card,1
+217121383,1/11/2018,19:25,Female,Park lane,Dallas,Yes,Furniture,12,7,84,Card,2
+835758996,2/10/2018,18:57,Female,Park lane,Dallas,Yes,Fashion,32,5,160,Card,5
+131904342,3/9/2018,11:22,Male,Brookfield,NewYork,Yes,Furniture,59,5,295,Cash,1
+438954986,1/21/2018,18:03,Female,Park lane,Dallas,Yes,Fashion,98,3,294,Card,4
+601973638,3/11/2018,20:29,Male,Park lane,Dallas,Yes,Books,95,5,475,Cash,1
+579955941,2/28/2018,20:57,Male,Brookfield,NewYork,Yes,Books,60,1,60,Card,2
+60603435,2/1/2018,11:03,Female,Park lane,Dallas,Yes,Groceries,12,5,60,Gpay,2
+803774146,1/28/2018,13:42,Male,Park lane,Dallas,Yes,Sporting,37,6,222,Cash,5
+855506655,1/23/2018,13:22,Male,Park lane,Dallas,No,Sporting,16,2,32,Cash,4
+796729861,1/23/2018,20:29,Male,Water tower,Chicago,No,Clothing,66,1,66,Cash,4
+616530004,2/5/2018,20:08,Female,Brookfield,NewYork,No,Clothing,21,3,63,Gpay,4
+416735444,2/12/2018,10:54,Female,Water tower,Chicago,Yes,Groceries,30,1,30,Cash,5
+882395212,3/18/2018,12:09,Female,Water tower,Chicago,No,Fashion,68,3,204,Gpay,3
+550324994,2/5/2018,17:11,Female,Water tower,Chicago,Yes,Books,60,1,60,Card,2
+223490764,2/27/2018,10:02,Female,Park lane,Dallas,Yes,Books,79,7,553,Gpay,3
+913471517,3/29/2018,17:07,Male,Brookfield,NewYork,Yes,Fashion,74,2,148,Card,1
+277181456,3/4/2018,12:16,Female,Brookfield,NewYork,Yes,Sporting,63,6,378,Gpay,2
+180617103,3/27/2018,19:35,Female,Park lane,Dallas,No,Fashion,50,7,350,Cash,3
+689330907,3/8/2018,13:40,Male,Brookfield,NewYork,No,Clothing,97,3,291,Card,4
+140416946,1/1/2018,15:55,Female,Park lane,Dallas,No,Furniture,45,1,45,Gpay,4
+966860394,3/14/2018,14:47,Male,Park lane,Dallas,Yes,Books,43,1,43,Card,3
+231410575,3/3/2018,18:53,Female,Water tower,Chicago,Yes,Fashion,55,4,220,Gpay,2
+55450556,2/18/2018,15:24,Male,Water tower,Chicago,No,Clothing,33,2,66,Cash,4
+553254260,2/10/2018,16:38,Male,Park lane,Dallas,No,Clothing,45,3,135,Gpay,1
+6317758,3/10/2018,15:08,Male,Park lane,Dallas,Yes,Groceries,57,7,399,Cash,2
+729471316,2/3/2018,18:37,Male,Park lane,Dallas,No,Fashion,93,3,279,Gpay,4
+156866460,3/5/2018,17:52,Male,Water tower,Chicago,No,Fashion,45,6,270,Gpay,2
+219223209,3/5/2018,11:22,Female,Water tower,Chicago,No,Clothing,70,6,420,Cash,3
+670571204,3/1/2018,13:49,Male,Water tower,Chicago,No,Fashion,67,7,469,Gpay,4
+444818981,1/31/2018,14:45,Male,Park lane,Dallas,Yes,Fashion,7,3,21,Gpay,1
+238431080,2/10/2018,20:44,Male,Brookfield,NewYork,Yes,Furniture,30,7,210,Gpay,3
+478134181,3/3/2018,12:43,Female,Brookfield,NewYork,Yes,Furniture,21,7,147,Cash,4
+992649067,1/26/2018,10:13,Female,Park lane,Dallas,Yes,Furniture,29,4,116,Card,3
+775497478,3/8/2018,10:18,Male,Water tower,Chicago,No,Clothing,27,2,54,Cash,2
+805827970,1/28/2018,19:39,Female,Brookfield,NewYork,No,Clothing,17,7,119,Gpay,1
+282745572,1/9/2018,16:52,Female,Water tower,Chicago,Yes,Fashion,20,3,60,Gpay,5
+807074233,2/11/2018,16:52,Female,Brookfield,NewYork,Yes,Sporting,42,7,294,Gpay,3
+68988140,2/26/2018,12:34,Male,Water tower,Chicago,No,Groceries,89,2,178,Cash,2
+129220940,3/14/2018,15:55,Male,Water tower,Chicago,Yes,Furniture,37,6,222,Gpay,5
+861236276,2/27/2018,11:48,Female,Brookfield,NewYork,Yes,Clothing,19,5,95,Card,4
+176302111,1/24/2018,20:36,Male,Water tower,Chicago,No,Groceries,90,7,630,Gpay,4
+517625228,1/3/2018,13:02,Male,Brookfield,NewYork,Yes,Furniture,55,4,220,Card,3
+462941880,1/13/2018,16:06,Female,Brookfield,NewYork,No,Furniture,61,4,244,Cash,4
+622823966,3/8/2018,14:20,Male,Park lane,Dallas,No,Furniture,100,3,300,Gpay,2
+801096383,1/22/2018,14:24,Female,Park lane,Dallas,No,Fashion,2,2,4,Cash,5
+246818576,2/8/2018,15:55,Female,Water tower,Chicago,No,Groceries,5,4,20,Cash,5
+96360197,3/20/2018,12:43,Female,Park lane,Dallas,No,Furniture,4,2,8,Cash,4
+162150706,2/8/2018,15:00,Male,Park lane,Dallas,No,Clothing,7,5,35,Card,1
+645707148,3/18/2018,16:23,Female,Brookfield,NewYork,No,Fashion,6,2,12,Cash,4
+852583661,2/27/2018,20:35,Male,Water tower,Chicago,Yes,Groceries,2,1,2,Card,2
+809084276,3/5/2018,18:13,Male,Brookfield,NewYork,No,Clothing,20,4,80,Gpay,3
+808877527,2/24/2018,12:04,Male,Water tower,Chicago,Yes,Fashion,71,1,71,Card,4
+544850143,3/29/2018,14:49,Female,Water tower,Chicago,No,Furniture,53,5,265,Gpay,1
+438824651,1/14/2018,12:51,Female,Park lane,Dallas,Yes,Clothing,37,5,185,Cash,5
+167903678,3/9/2018,19:06,Female,Park lane,Dallas,No,Furniture,46,3,138,Gpay,5
+415999917,2/25/2018,19:57,Male,Park lane,Dallas,No,Sporting,95,6,570,Gpay,4
+1868293,2/22/2018,12:50,Female,Park lane,Dallas,Yes,Sporting,46,2,92,Card,1
+155011528,1/17/2018,11:52,Female,Brookfield,NewYork,Yes,Groceries,22,5,110,Card,5
+373388134,3/22/2018,12:46,Female,Water tower,Chicago,Yes,Books,63,1,63,Gpay,1
+983716348,3/17/2018,14:12,Female,Park lane,Dallas,Yes,Sporting,32,7,224,Cash,3
+736089054,3/3/2018,11:09,Male,Brookfield,NewYork,No,Books,92,6,552,Cash,4
+341336897,2/23/2018,19:36,Female,Park lane,Dallas,No,Sporting,73,1,73,Gpay,5
+40817488,1/2/2018,19:38,Female,Park lane,Dallas,No,Fashion,84,7,588,Card,1
+275252707,1/5/2018,17:38,Male,Brookfield,NewYork,Yes,Clothing,69,4,276,Gpay,3
+792274763,3/5/2018,13:28,Male,Park lane,Dallas,Yes,Clothing,55,3,165,Cash,1
+651134698,2/15/2018,16:36,Female,Park lane,Dallas,Yes,Books,10,1,10,Card,2
+383124512,1/20/2018,17:49,Male,Water tower,Chicago,No,Sporting,97,7,679,Cash,2
+796865298,2/12/2018,10:23,Male,Brookfield,NewYork,Yes,Groceries,78,3,234,Cash,5
+186195140,3/5/2018,13:37,Male,Brookfield,NewYork,No,Books,92,1,92,Card,2
+939286972,1/9/2018,19:40,Female,Brookfield,NewYork,Yes,Groceries,64,3,192,Gpay,1
+752790123,1/15/2018,15:37,Female,Brookfield,NewYork,No,Sporting,99,4,396,Cash,2
+386315734,2/9/2018,13:48,Male,Water tower,Chicago,No,Sporting,29,4,116,Cash,5
+127734567,2/3/2018,13:40,Male,Brookfield,NewYork,Yes,Furniture,96,2,192,Cash,3
+280541372,1/27/2018,10:16,Female,Brookfield,NewYork,Yes,Books,66,3,198,Cash,1
+395138851,1/2/2018,11:36,Female,Brookfield,NewYork,No,Furniture,27,6,162,Cash,2
+182431288,3/5/2018,13:56,Female,Water tower,Chicago,Yes,Fashion,61,2,122,Gpay,5
+836579192,1/3/2018,17:36,Male,Park lane,Dallas,Yes,Clothing,73,1,73,Card,2
+213106322,3/2/2018,10:54,Male,Water tower,Chicago,Yes,Furniture,62,7,434,Card,2
+567239406,1/26/2018,18:35,Male,Water tower,Chicago,Yes,Furniture,51,5,255,Cash,5
+932934368,1/26/2018,10:37,Female,Brookfield,NewYork,No,Groceries,51,4,204,Cash,3
+845411807,2/27/2018,16:36,Female,Brookfield,NewYork,Yes,Books,26,1,26,Card,2
+190587018,1/4/2018,10:39,Male,Brookfield,NewYork,No,Sporting,70,3,210,Gpay,1
+884623874,3/15/2018,10:08,Female,Brookfield,NewYork,Yes,Clothing,93,2,186,Gpay,2
+438545442,2/15/2018,13:51,Male,Water tower,Chicago,No,Groceries,34,2,68,Card,3
+471675423,1/22/2018,10:44,Female,Water tower,Chicago,Yes,Clothing,34,4,136,Gpay,1
+269269953,3/29/2018,11:26,Female,Park lane,Dallas,No,Groceries,89,2,178,Cash,2
+872296387,3/25/2018,13:27,Female,Brookfield,NewYork,Yes,Books,99,5,495,Cash,4
+428433770,3/26/2018,19:17,Female,Brookfield,NewYork,Yes,Groceries,61,3,183,Cash,1
+831348901,3/4/2018,14:21,Female,Park lane,Dallas,No,Books,36,3,108,Card,5
+257959706,1/16/2018,13:24,Male,Water tower,Chicago,No,Groceries,7,3,21,Cash,3
+217009871,2/7/2018,13:50,Male,Water tower,Chicago,No,Fashion,46,2,92,Card,3
+315410869,2/19/2018,16:23,Male,Park lane,Dallas,No,Fashion,3,3,9,Cash,4
+366811443,1/16/2018,13:46,Male,Park lane,Dallas,No,Sporting,71,2,142,Cash,1
+914016320,1/26/2018,11:51,Male,Water tower,Chicago,No,Fashion,85,5,425,Card,5
+144547638,1/14/2018,10:38,Male,Water tower,Chicago,Yes,Furniture,97,2,194,Card,4
+88831545,1/31/2018,14:19,Female,Park lane,Dallas,Yes,Fashion,34,7,238,Cash,4
+365754742,1/8/2018,15:07,Female,Water tower,Chicago,No,Furniture,19,5,95,Card,1
+281937481,1/29/2018,19:11,Female,Water tower,Chicago,No,Groceries,99,1,99,Gpay,5
+678754147,3/2/2018,17:43,Male,Park lane,Dallas,Yes,Sporting,12,6,72,Gpay,1
+68988075,2/1/2018,17:58,Male,Park lane,Dallas,Yes,Books,48,4,192,Cash,3
+359235143,3/20/2018,18:45,Female,Brookfield,NewYork,No,Groceries,55,1,55,Gpay,3
+939774850,3/3/2018,20:24,Female,Park lane,Dallas,No,Furniture,84,4,336,Gpay,2
+278317061,3/14/2018,13:22,Female,Brookfield,NewYork,No,Fashion,88,1,88,Card,1
+368853285,2/20/2018,18:37,Male,Brookfield,NewYork,No,Clothing,99,4,396,Cash,1
+604340487,2/14/2018,18:45,Male,Water tower,Chicago,Yes,Furniture,11,5,55,Gpay,2
+743868871,1/25/2018,10:31,Female,Brookfield,NewYork,Yes,Books,93,4,372,Gpay,3
+492810637,3/24/2018,19:39,Male,Park lane,Dallas,No,Clothing,89,5,445,Gpay,5
+687348438,1/23/2018,13:38,Female,Park lane,Dallas,Yes,Furniture,65,3,195,Cash,4
+80579422,3/19/2018,12:50,Female,Water tower,Chicago,Yes,Groceries,1,6,6,Cash,4
+643832293,2/15/2018,19:26,Male,Brookfield,NewYork,Yes,Furniture,76,7,532,Cash,2
+831268468,1/11/2018,20:35,Female,Water tower,Chicago,No,Clothing,69,1,69,Cash,5
+492882170,3/14/2018,19:49,Female,Park lane,Dallas,Yes,Groceries,79,1,79,Gpay,2
+558983653,3/18/2018,16:08,Female,Brookfield,NewYork,No,Clothing,59,3,177,Cash,1
+277407654,2/14/2018,13:54,Male,Water tower,Chicago,Yes,Clothing,50,3,150,Gpay,3
+994560802,1/23/2018,19:48,Male,Brookfield,NewYork,Yes,Fashion,32,6,192,Gpay,2
+746727595,3/30/2018,13:52,Female,Brookfield,NewYork,No,Sporting,72,2,144,Gpay,1
+339046235,2/6/2018,12:20,Female,Brookfield,NewYork,Yes,Fashion,91,5,455,Card,2
+348768896,1/17/2018,15:11,Male,Brookfield,NewYork,No,Sporting,91,2,182,Cash,1
+987110291,1/1/2018,11:39,Male,Park lane,Dallas,No,Clothing,57,2,114,Cash,5
+62873821,3/19/2018,10:25,Male,Park lane,Dallas,No,Groceries,26,7,182,Gpay,5
+191002335,2/4/2018,12:30,Female,Water tower,Chicago,No,Clothing,55,4,220,Cash,3
+244033511,1/8/2018,16:48,Male,Park lane,Dallas,Yes,Clothing,95,3,285,Gpay,5
+393987266,1/25/2018,15:01,Male,Brookfield,NewYork,No,Groceries,79,1,79,Gpay,3
+604309839,2/22/2018,11:26,Female,Brookfield,NewYork,No,Books,34,6,204,Cash,1
+889591111,2/4/2018,18:00,Female,Park lane,Dallas,Yes,Books,93,1,93,Cash,5
+944196014,3/14/2018,16:43,Male,Water tower,Chicago,No,Sporting,72,2,144,Cash,3
+286183474,3/2/2018,19:56,Female,Water tower,Chicago,Yes,Fashion,30,1,30,Cash,3
+75267883,3/19/2018,10:25,Female,Water tower,Chicago,No,Sporting,1,7,7,Gpay,1
+480320443,1/8/2018,10:52,Male,Brookfield,NewYork,No,Sporting,4,6,24,Cash,2
+58389350,1/12/2018,19:01,Female,Park lane,Dallas,Yes,Books,71,4,284,Cash,2
+799871468,3/23/2018,14:22,Male,Brookfield,NewYork,No,Clothing,53,2,106,Gpay,2
+884774543,3/18/2018,10:18,Female,Park lane,Dallas,Yes,Groceries,55,6,330,Card,1
+80389415,3/12/2018,18:37,Male,Park lane,Dallas,Yes,Groceries,26,7,182,Card,1
+719326156,3/25/2018,10:42,Female,Park lane,Dallas,Yes,Groceries,67,5,335,Card,3
+424714026,2/3/2018,16:30,Female,Brookfield,NewYork,No,Groceries,65,2,130,Cash,1
+928927387,3/30/2018,15:26,Male,Water tower,Chicago,Yes,Fashion,38,5,190,Cash,3
+583805255,3/20/2018,12:46,Female,Brookfield,NewYork,Yes,Furniture,56,7,392,Gpay,5
+157966851,3/22/2018,12:28,Male,Park lane,Dallas,Yes,Books,39,3,117,Cash,3
+431796363,3/13/2018,10:10,Male,Brookfield,NewYork,Yes,Books,10,4,40,Card,2
+467636158,1/14/2018,14:33,Male,Park lane,Dallas,Yes,Fashion,91,6,546,Card,1
+113865610,3/6/2018,11:30,Female,Brookfield,NewYork,No,Sporting,35,4,140,Gpay,5
+5906917,1/28/2018,10:00,Female,Brookfield,NewYork,Yes,Furniture,16,3,48,Cash,3
+673511320,3/22/2018,18:36,Male,Brookfield,NewYork,Yes,Groceries,49,2,98,Card,2
+256137022,2/15/2018,19:54,Male,Brookfield,NewYork,Yes,Fashion,65,7,455,Gpay,5
+446058586,1/13/2018,12:02,Male,Water tower,Chicago,No,Groceries,73,7,511,Cash,3
+761671458,1/27/2018,20:48,Female,Water tower,Chicago,Yes,Sporting,98,2,196,Card,4
+195735654,2/20/2018,18:19,Male,Water tower,Chicago,Yes,Clothing,67,6,402,Gpay,5
+432408930,2/6/2018,12:38,Male,Park lane,Dallas,No,Groceries,23,2,46,Gpay,2
+910566694,2/8/2018,10:11,Female,Park lane,Dallas,Yes,Books,100,3,300,Cash,3
+401049714,1/5/2018,18:01,Female,Brookfield,NewYork,No,Sporting,53,3,159,Card,3
+716893489,3/13/2018,10:55,Female,Water tower,Chicago,Yes,Furniture,94,1,94,Card,1
+658692054,1/29/2018,19:14,Male,Park lane,Dallas,No,Clothing,2,7,14,Cash,1
+475942982,1/25/2018,18:41,Male,Brookfield,NewYork,Yes,Furniture,56,3,168,Cash,2
+811797998,1/9/2018,13:34,Male,Park lane,Dallas,Yes,Sporting,49,7,343,Card,2
+49010573,2/7/2018,18:09,Female,Water tower,Chicago,No,Books,72,5,360,Card,1
+668627461,1/19/2018,16:19,Female,Water tower,Chicago,Yes,Clothing,57,2,114,Card,4
+814161168,2/3/2018,12:55,Male,Brookfield,NewYork,No,Groceries,55,1,55,Card,3
+589485033,1/10/2018,11:00,Male,Water tower,Chicago,No,Furniture,95,1,95,Gpay,3
+962620975,2/4/2018,15:19,Male,Park lane,Dallas,Yes,Groceries,16,4,64,Gpay,2
+681108606,2/23/2018,12:37,Female,Water tower,Chicago,Yes,Groceries,12,1,12,Cash,3
+152123727,3/7/2018,13:47,Male,Water tower,Chicago,No,Clothing,6,6,36,Card,1
+743948077,3/19/2018,17:54,Female,Brookfield,NewYork,Yes,Furniture,68,3,204,Gpay,4
+830395693,2/9/2018,19:52,Male,Brookfield,NewYork,No,Fashion,54,6,324,Card,3
+107754660,2/26/2018,14:04,Female,Water tower,Chicago,No,Fashion,83,1,83,Card,4
+625844840,3/5/2018,10:49,Male,Brookfield,NewYork,Yes,Clothing,50,4,200,Cash,2
+34774979,1/28/2018,16:19,Male,Water tower,Chicago,Yes,Fashion,66,3,198,Card,3
+623619957,3/9/2018,15:15,Male,Water tower,Chicago,Yes,Books,28,1,28,Gpay,3
+602986760,1/6/2018,15:06,Male,Park lane,Dallas,No,Books,42,6,252,Cash,4
+670908567,3/10/2018,11:10,Female,Brookfield,NewYork,No,Books,59,5,295,Cash,4
+979420786,3/20/2018,14:21,Male,Water tower,Chicago,No,Fashion,31,2,62,Gpay,3
+481154948,1/30/2018,18:23,Female,Brookfield,NewYork,Yes,Books,15,6,90,Gpay,2
+784007917,1/21/2018,13:48,Female,Water tower,Chicago,Yes,Sporting,56,7,392,Card,3
+706434356,1/18/2018,15:32,Female,Water tower,Chicago,Yes,Sporting,14,1,14,Cash,3
+59014816,1/29/2018,19:48,Female,Park lane,Dallas,Yes,Fashion,91,5,455,Gpay,3
+122276077,3/15/2018,17:29,Male,Brookfield,NewYork,No,Furniture,84,6,504,Card,5
+882557922,1/23/2018,16:16,Male,Water tower,Chicago,No,Sporting,3,6,18,Card,1
+999665753,3/5/2018,18:45,Male,Brookfield,NewYork,Yes,Groceries,38,6,228,Gpay,5
+284607690,2/20/2018,12:36,Male,Park lane,Dallas,Yes,Sporting,51,7,357,Cash,1
+832788886,1/6/2018,14:36,Male,Water tower,Chicago,Yes,Clothing,3,1,3,Cash,1
+181135218,2/9/2018,13:30,Male,Park lane,Dallas,No,Books,47,3,141,Cash,2
+134430315,1/4/2018,18:05,Female,Water tower,Chicago,Yes,Groceries,68,1,68,Cash,2
+80554322,3/18/2018,14:30,Male,Brookfield,NewYork,Yes,Furniture,24,1,24,Card,2
+618080777,2/2/2018,13:40,Female,Water tower,Chicago,No,Sporting,52,2,104,Cash,1
+333447274,1/1/2018,11:40,Male,Park lane,Dallas,No,Books,47,7,329,Gpay,5
+949102124,2/10/2018,15:48,Female,Park lane,Dallas,Yes,Books,83,7,581,Cash,5
+391923538,1/15/2018,10:23,Male,Water tower,Chicago,No,Sporting,64,1,64,Gpay,2
+387274915,3/28/2018,11:34,Male,Water tower,Chicago,No,Groceries,28,7,196,Cash,5
+572172070,1/8/2018,13:02,Female,Water tower,Chicago,Yes,Furniture,5,5,25,Cash,2
+158330556,2/6/2018,19:16,Male,Brookfield,NewYork,Yes,Furniture,32,6,192,Cash,1
+29270534,1/25/2018,19:44,Male,Water tower,Chicago,Yes,Books,63,5,315,Cash,2
+709410494,1/31/2018,19:44,Female,Brookfield,NewYork,No,Books,29,3,87,Gpay,2
+366683041,2/16/2018,14:50,Male,Park lane,Dallas,No,Clothing,89,5,445,Cash,2
+127682185,3/13/2018,13:45,Female,Park lane,Dallas,No,Furniture,8,6,48,Card,2
+526803787,2/2/2018,10:54,Female,Park lane,Dallas,No,Furniture,20,2,40,Cash,4
+765581059,2/10/2018,13:01,Female,Park lane,Dallas,No,Sporting,57,6,342,Cash,2
+309210649,2/9/2018,15:53,Female,Water tower,Chicago,Yes,Fashion,93,7,651,Card,3
+431475356,1/23/2018,13:48,Female,Water tower,Chicago,No,Clothing,88,4,352,Gpay,2
+208922967,3/5/2018,15:28,Female,Brookfield,NewYork,No,Groceries,84,5,420,Cash,3
+610220641,2/10/2018,19:40,Male,Park lane,Dallas,No,Furniture,82,5,410,Gpay,3
+879983464,2/26/2018,17:16,Female,Brookfield,NewYork,Yes,Books,10,2,20,Gpay,2
+891469665,3/11/2018,17:47,Male,Water tower,Chicago,Yes,Groceries,22,2,44,Card,1
+735300355,2/23/2018,19:30,Male,Brookfield,NewYork,Yes,Groceries,34,5,170,Card,1
+750235304,3/10/2018,10:31,Female,Water tower,Chicago,Yes,Books,51,3,153,Card,2
+270212524,3/13/2018,14:29,Female,Brookfield,NewYork,Yes,Sporting,34,3,102,Gpay,1
+767705654,1/30/2018,11:15,Male,Park lane,Dallas,No,Books,35,1,35,Cash,2
+126122660,2/15/2018,20:26,Male,Water tower,Chicago,Yes,Fashion,60,6,360,Card,5
+352435324,3/24/2018,12:40,Female,Brookfield,NewYork,Yes,Fashion,42,2,84,Cash,1
+626352806,3/30/2018,10:17,Male,Park lane,Dallas,No,Sporting,16,2,32,Card,2
+652672609,3/14/2018,20:23,Male,Park lane,Dallas,Yes,Groceries,88,4,352,Gpay,3
+156806665,1/16/2018,10:55,Male,Brookfield,NewYork,Yes,Fashion,35,6,210,Cash,5
+97731114,2/3/2018,15:33,Male,Water tower,Chicago,Yes,Furniture,85,3,255,Card,5
+919895826,1/14/2018,17:12,Male,Brookfield,NewYork,Yes,Furniture,37,6,222,Cash,3
+406115322,1/24/2018,16:49,Male,Water tower,Chicago,No,Sporting,99,2,198,Card,3
+55446109,1/5/2018,13:11,Female,Brookfield,NewYork,Yes,Furniture,13,7,91,Gpay,4
+814814063,2/8/2018,17:55,Male,Park lane,Dallas,Yes,Sporting,13,4,52,Card,1
+144017872,3/3/2018,18:51,Female,Park lane,Dallas,Yes,Books,82,2,164,Card,2
+160173319,2/14/2018,15:46,Female,Park lane,Dallas,No,Fashion,40,3,120,Card,5
+636443509,1/21/2018,19:48,Male,Water tower,Chicago,Yes,Furniture,79,1,79,Card,4
+546550680,3/2/2018,15:08,Male,Park lane,Dallas,Yes,Groceries,7,4,28,Card,2
+691728724,3/21/2018,11:56,Male,Water tower,Chicago,No,Sporting,24,4,96,Gpay,4
+23179110,1/6/2018,11:43,Male,Park lane,Dallas,Yes,Fashion,34,6,204,Cash,5
+360225633,1/23/2018,15:53,Female,Water tower,Chicago,Yes,Furniture,44,5,220,Card,4
+629076954,1/23/2018,13:53,Male,Water tower,Chicago,No,Books,43,5,215,Cash,2
+579735898,3/20/2018,15:43,Female,Park lane,Dallas,Yes,Fashion,41,5,205,Gpay,2
+615324500,3/18/2018,16:35,Female,Park lane,Dallas,Yes,Sporting,38,5,190,Card,3
+321636517,2/2/2018,15:46,Male,Brookfield,NewYork,Yes,Clothing,58,3,174,Card,1
+696587127,3/13/2018,15:58,Male,Park lane,Dallas,No,Books,78,7,546,Card,2
+648059805,2/21/2018,20:31,Female,Brookfield,NewYork,No,Sporting,40,5,200,Gpay,1
+980537272,3/14/2018,10:53,Male,Water tower,Chicago,No,Sporting,81,1,81,Cash,5
+838547209,1/8/2018,18:43,Female,Park lane,Dallas,No,Sporting,87,3,261,Card,3
+264069155,2/7/2018,11:01,Male,Water tower,Chicago,Yes,Sporting,1,2,2,Gpay,1
+987505479,2/21/2018,15:56,Male,Water tower,Chicago,No,Sporting,63,4,252,Cash,1
+736292714,2/8/2018,13:34,Female,Park lane,Dallas,Yes,Sporting,88,6,528,Cash,3
+137417145,3/25/2018,14:43,Female,Park lane,Dallas,No,Clothing,69,5,345,Cash,3
+685746853,2/7/2018,20:07,Female,Park lane,Dallas,No,Groceries,58,4,232,Card,2
+625417060,3/4/2018,15:31,Male,Water tower,Chicago,No,Sporting,73,3,219,Gpay,3
+546718114,1/5/2018,13:41,Female,Water tower,Chicago,No,Groceries,18,2,36,Cash,3
+613986911,2/19/2018,15:47,Male,Brookfield,NewYork,No,Fashion,54,6,324,Card,2
+838746464,3/12/2018,17:43,Female,Brookfield,NewYork,Yes,Furniture,23,7,161,Card,4
+934711328,2/17/2018,17:38,Female,Water tower,Chicago,No,Clothing,80,3,240,Cash,2
+134230335,2/26/2018,20:51,Male,Brookfield,NewYork,No,Books,88,5,440,Cash,5
+284977676,1/28/2018,16:19,Male,Park lane,Dallas,No,Groceries,89,2,178,Cash,1
+839513398,3/9/2018,19:08,Female,Brookfield,NewYork,Yes,Clothing,67,5,335,Gpay,2
+322006600,1/8/2018,10:01,Female,Park lane,Dallas,No,Clothing,37,5,185,Card,5
+81079897,3/28/2018,12:12,Female,Park lane,Dallas,Yes,Fashion,64,7,448,Gpay,1
+340617715,1/19/2018,19:57,Male,Brookfield,NewYork,No,Sporting,2,1,2,Card,1
+464762614,3/3/2018,10:38,Male,Water tower,Chicago,No,Fashion,61,1,61,Cash,2
+497734676,2/9/2018,14:14,Male,Park lane,Dallas,No,Sporting,5,4,20,Cash,3
+614557665,3/22/2018,17:16,Female,Park lane,Dallas,No,Clothing,49,3,147,Cash,5
+158012185,3/9/2018,11:46,Male,Brookfield,NewYork,No,Books,1,3,3,Gpay,2
+719253789,3/15/2018,18:37,Female,Brookfield,NewYork,No,Clothing,92,7,644,Gpay,4
+34442223,1/10/2018,17:24,Male,Brookfield,NewYork,No,Clothing,88,3,264,Gpay,1
+418253101,3/14/2018,12:25,Female,Brookfield,NewYork,No,Fashion,81,2,162,Gpay,5
+741817151,2/10/2018,14:43,Female,Brookfield,NewYork,No,Furniture,83,3,249,Gpay,1
+169440268,2/17/2018,14:42,Female,Brookfield,NewYork,No,Groceries,4,7,28,Gpay,5
+979059991,3/26/2018,13:48,Female,Brookfield,NewYork,Yes,Books,84,3,252,Gpay,3
+266635768,1/29/2018,14:30,Male,Water tower,Chicago,Yes,Groceries,39,6,234,Cash,2
+321374195,3/17/2018,14:16,Female,Water tower,Chicago,No,Clothing,30,2,60,Cash,4
+245049016,1/20/2018,10:03,Female,Park lane,Dallas,No,Furniture,74,4,296,Card,4
+737210,1/20/2018,20:47,Female,Water tower,Chicago,Yes,Furniture,88,1,88,Cash,5
+941364541,3/13/2018,14:53,Female,Brookfield,NewYork,No,Sporting,19,7,133,Cash,1
+752407865,1/15/2018,10:01,Male,Water tower,Chicago,Yes,Clothing,25,4,100,Cash,5
+699906043,2/15/2018,12:58,Male,Brookfield,NewYork,Yes,Furniture,96,7,672,Card,3
+927909627,3/2/2018,13:35,Male,Brookfield,NewYork,No,Books,54,1,54,Card,1
+455112063,3/19/2018,17:30,Female,Brookfield,NewYork,Yes,Clothing,3,3,9,Cash,2
+446582560,1/31/2018,19:00,Male,Water tower,Chicago,No,Fashion,29,5,145,Cash,4
+818829599,3/26/2018,11:19,Male,Park lane,Dallas,No,Groceries,31,4,124,Card,3
+556589713,2/20/2018,17:17,Male,Water tower,Chicago,Yes,Groceries,3,5,15,Gpay,3
+82324424,2/6/2018,11:44,Male,Brookfield,NewYork,No,Clothing,71,5,355,Card,3
+783661702,1/29/2018,15:44,Female,Brookfield,NewYork,No,Clothing,89,7,623,Cash,5
+759171975,1/31/2018,10:13,Female,Water tower,Chicago,Yes,Clothing,31,7,217,Gpay,3
