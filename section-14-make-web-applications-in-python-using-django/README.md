@@ -471,7 +471,7 @@ def detail(request,book_id):
 ### Django tutorial 18: Removing The Hardcoded Urls
 - In `index.html` change tag `<a>`
 ```
- <a href ="{% url 'detail' book.id %}">{{book.name}}</a>
+  href ="{% url 'detail' book.id %}">{{book.name}}
 ```
 ### Django tutorial 19: Namespaces in Django
 - Extend project capabilities, if no namespace is set, then for `{% url 'detail' book.id%}`, only one url exists.
