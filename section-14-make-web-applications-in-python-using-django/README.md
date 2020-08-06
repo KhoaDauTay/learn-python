@@ -470,9 +470,9 @@ def detail(request,book_id):
     ![Result 1](image/step-20.png)
 ### Django tutorial 18: Removing The Hardcoded Urls
 - In `index.html` change tag `<a>`
-```
-  href ="{% url 'detail' book.id %}">{{book.name}}
-```
+    ```
+     {% url 'detail' book.id %}
+    ```
 ### Django tutorial 19: Namespaces in Django
 - Extend project capabilities, if no namespace is set, then for `{% url 'detail' book.id%}`, only one url exists.
     - But if you want to expand the product also need detail, you won't create it
