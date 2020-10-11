@@ -1,7 +1,7 @@
 # The Complete Python Masterclass: Learn Python From Scratch - July 2020
 Journal for Learning Course: The Complete Python Masterclass: Learn Python From Scratch 
 https://www.udemy.com/course/python-masterclass-course/
-
+## Link Download: https://uithcm-my.sharepoint.com/:f:/g/personal/18520917_ms_uit_edu_vn/ElXUPiiDBKxNpt1d8ibNbFUBBSe4Luh5meZOVaMee_1E9A?e=c3svpa
 ## Description
 - Learn the latest version of Python i.e Python 3
 - Understand & learn each and every Python concept.
